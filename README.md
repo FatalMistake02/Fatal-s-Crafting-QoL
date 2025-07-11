@@ -1,0 +1,1 @@
+# Fatal-s-Crafting-QoL
