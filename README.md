@@ -1,1 +1,1 @@
-# Fatal-s-Crafting-QoL
+# Fatal's Crafting QoL
