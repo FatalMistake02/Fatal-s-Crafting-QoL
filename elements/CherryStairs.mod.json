@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      },
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      },
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      },
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CHERRY_STAIRS"
+    },
+    "name": "cherry_stairs",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 9,
+  "cookingtime": 600,
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "result": "minecraft:gold_block"
+}

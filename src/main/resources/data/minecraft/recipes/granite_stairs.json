@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:granite"
+    }
+  },
+  "result": {
+    "item": "minecraft:granite_stairs",
+    "count": 8
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:air"
+    }
+  },
+  "result": {
+    "item": "minecraft:air",
+    "count": 3
+  }
+}

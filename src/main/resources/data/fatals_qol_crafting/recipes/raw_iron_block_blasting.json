@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 6.3,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "result": "minecraft:iron_block"
+}

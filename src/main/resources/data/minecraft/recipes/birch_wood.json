@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:birch_log"
+    }
+  },
+  "result": {
+    "item": "minecraft:birch_wood",
+    "count": 4
+  }
+}
