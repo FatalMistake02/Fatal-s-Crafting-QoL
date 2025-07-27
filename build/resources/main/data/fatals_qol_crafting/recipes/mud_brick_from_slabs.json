@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:mud_brick_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:mud_bricks",
+    "count": 1
+  }
+}

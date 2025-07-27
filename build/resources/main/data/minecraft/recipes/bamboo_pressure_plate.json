@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:bamboo_pressure_plate",
+    "count": 4
+  }
+}

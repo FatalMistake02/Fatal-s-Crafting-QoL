@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cherry_stairs"
+    }
+  },
+  "result": {
+    "item": "minecraft:cherry_planks",
+    "count": 3
+  }
+}

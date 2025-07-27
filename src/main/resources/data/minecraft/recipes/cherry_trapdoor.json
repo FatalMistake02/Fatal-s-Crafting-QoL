@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cherry_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:cherry_trapdoor",
+    "count": 12
+  }
+}

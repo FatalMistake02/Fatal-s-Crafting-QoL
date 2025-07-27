@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:dark_oak_log"
+    }
+  },
+  "result": {
+    "item": "minecraft:dark_oak_wood",
+    "count": 4
+  }
+}
