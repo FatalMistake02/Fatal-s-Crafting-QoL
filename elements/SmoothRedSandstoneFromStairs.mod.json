@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE_STAIRS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE_STAIRS"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.SMOOTH_RED_SANDSTONE"
+    },
+    "name": "smooth_red_sandstone_from_stairs",
+    "namespace": "mod"
+  }
+}

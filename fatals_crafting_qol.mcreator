@@ -1,0 +1,1010 @@
+{
+  "mod_elements": [
+    {
+      "name": "OakStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/oak_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "OakButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/oak_button.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "OakTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/oak_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "OakPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/oak_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "OakWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/oak_wood.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "OakFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipes/oak_fence.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "SpruceButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/spruce_button.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "SpruceFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/spruce_fence.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "SprucePressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/spruce_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "SpruceStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/spruce_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "SpruceTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/spruce_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "SpruceWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/spruce_wood.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "BirchButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/birch_button.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "BirchFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/birch_fence.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "BirchPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/birch_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "BirchTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/birch_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "BirchWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/birch_wood.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "BirchStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/birch_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "JungleButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/jungle_button.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "JunglePressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/jungle_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "JungleFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/jungle_fence.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "JungleStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/jungle_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "JungleTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/jungle_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "JungleWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/jungle_wood.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "AcaciaButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipes/acacia_button.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "AcaciaFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/acacia_fence.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "AcaciaPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/acacia_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "AcaciaStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/acacia_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "AcaciaTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/acacia_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "AcaciaWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/acacia_wood.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "DarkOakButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/dark_oak_button.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "DarkOakFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/dark_oak_fence.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "DarkOakPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/dark_oak_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "DarkOakStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/dark_oak_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "DarkOakTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/dark_oak_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "DarkOakWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/dark_oak_wood.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "MangroveButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/mangrove_button.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "MangroveFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/mangrove_fence.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "MangrovePressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/mangrove_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "MangroveStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/mangrove_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "MangroveTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/mangrove_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "MangroveWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipes/mangrove_wood.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "CherryButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/cherry_button.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "CherryFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/cherry_fence.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "CherryPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/cherry_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "CherryStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/cherry_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "CherryTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/cherry_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "CherryWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/cherry_wood.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "BambooButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/bamboo_button.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "BambooFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/bamboo_fence.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "BambooPressurePLate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_pressure_p_late",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/bamboo_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "BambooStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/bamboo_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "BambooTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/bamboo_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "CrimsonButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/crimson_button.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "CrimsonFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/crimson_fence.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "CrimsonPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/crimson_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "CrimsonStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/crimson_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "CrimsonTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/crimson_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "CrimsonHyphae",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_hyphae",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/crimson_hyphae.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "WarpedButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/warped_button.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "WarpedFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/warped_fence.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "WarpedPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/warped_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "WarpedStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/warped_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "WarpedTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/warped_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "WarpedHyphae",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_hyphae",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/warped_hyphae.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "OakPlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipes/oak_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "OakPlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipes/oak_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "SprucePlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipes/spruce_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "SprucePlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipes/spruce_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "BirchPlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipes/birch_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "BirchPlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipes/birch_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Wood",
+        "children": [
+          {
+            "name": "Oak",
+            "children": []
+          },
+          {
+            "name": "Spruce",
+            "children": []
+          },
+          {
+            "name": "Birch",
+            "children": []
+          },
+          {
+            "name": "Jungle",
+            "children": []
+          },
+          {
+            "name": "Acacia",
+            "children": []
+          },
+          {
+            "name": "Dark Oak",
+            "children": []
+          },
+          {
+            "name": "Mangrove",
+            "children": []
+          },
+          {
+            "name": "Cherry",
+            "children": []
+          },
+          {
+            "name": "Pale Oak -1.21-",
+            "children": []
+          },
+          {
+            "name": "Bamboo",
+            "children": []
+          },
+          {
+            "name": "Crimson",
+            "children": []
+          },
+          {
+            "name": "Warped",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "fatals_qol_crafting",
+    "modName": "Fatal\u0027s QoL Crafting",
+    "version": "1.0.0",
+    "author": "FatalMistake02",
+    "websiteURL": "https://fatalmistake02.com",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "serverSideOnly": false,
+    "modPicture": "crafting_table_side",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.fatalscraftingqol"
+  },
+  "mcreatorVersion": 202400232117
+}

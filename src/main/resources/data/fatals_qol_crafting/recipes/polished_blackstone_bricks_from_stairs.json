@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:polished_blackstone_brick_stairs"
+    }
+  },
+  "result": {
+    "item": "minecraft:polished_blackstone_bricks",
+    "count": 3
+  }
+}

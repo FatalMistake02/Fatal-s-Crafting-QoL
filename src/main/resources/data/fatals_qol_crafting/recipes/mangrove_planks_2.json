@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:mangrove_stairs"
+    }
+  },
+  "result": {
+    "item": "minecraft:mangrove_planks",
+    "count": 3
+  }
+}
