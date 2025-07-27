@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE"
+      },
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE"
+      },
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE"
+      },
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.POLISHED_DEEPSLATE_STAIRS"
+    },
+    "name": "polished_deepslate_stairs",
+    "namespace": "minecraft"
+  }
+}

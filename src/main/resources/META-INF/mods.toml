@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="fatals_qol_crafting"
+version="1.0.0"
+displayName="Fatal's QoL Crafting"
+displayURL="https://fatalmistake02.com"
+logoFile="logo.png"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="FatalMistake02"
+description="Changes some recipes and adds many new ones."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.fatals_qol_crafting]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
