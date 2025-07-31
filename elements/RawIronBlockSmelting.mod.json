@@ -1,0 +1,22 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 6.3,
+    "cookingTime": 600,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Blocks.RAW_IRON_BLOCK"
+    },
+    "smeltingReturnStack": {
+      "value": "Blocks.IRON_BLOCK"
+    },
+    "name": "raw_iron_block_smelting",
+    "namespace": "mod"
+  }
+}

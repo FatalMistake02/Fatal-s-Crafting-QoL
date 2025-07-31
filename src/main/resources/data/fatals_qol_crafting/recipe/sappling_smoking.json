@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "experience": 0,
+  "cookingtime": 50,
+  "ingredient": {
+    "tag": "minecraft:saplings"
+  },
+  "result": {
+    "id": "minecraft:dead_bush"
+  }
+}

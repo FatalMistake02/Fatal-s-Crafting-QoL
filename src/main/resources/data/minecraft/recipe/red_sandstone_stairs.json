@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_sandstone"
+    }
+  },
+  "result": {
+    "id": "minecraft:red_sandstone_stairs",
+    "count": 8
+  }
+}

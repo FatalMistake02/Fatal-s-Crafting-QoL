@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:nether_brick_stairs"
+    }
+  },
+  "result": {
+    "id": "minecraft:nether_bricks",
+    "count": 3
+  }
+}

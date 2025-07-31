@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:mossy_cobblestone_stairs"
+    }
+  },
+  "result": {
+    "id": "minecraft:mossy_cobblestone",
+    "count": 3
+  }
+}

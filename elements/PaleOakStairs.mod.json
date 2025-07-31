@@ -1,0 +1,48 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.PALE_OAK_PLANKS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.PALE_OAK_PLANKS"
+      },
+      {
+        "value": "Blocks.PALE_OAK_PLANKS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.PALE_OAK_PLANKS"
+      },
+      {
+        "value": "Blocks.PALE_OAK_PLANKS"
+      },
+      {
+        "value": "Blocks.PALE_OAK_PLANKS"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.PALE_OAK_STAIRS"
+    },
+    "name": "pale_oak_stairs",
+    "namespace": "minecraft"
+  }
+}

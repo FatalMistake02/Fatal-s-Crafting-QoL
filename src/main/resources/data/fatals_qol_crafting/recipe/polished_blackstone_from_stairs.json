@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:polished_blackstone_stairs"
+    }
+  },
+  "result": {
+    "id": "minecraft:polished_blackstone",
+    "count": 3
+  }
+}
