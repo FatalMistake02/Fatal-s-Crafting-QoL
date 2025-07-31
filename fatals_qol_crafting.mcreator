@@ -3199,145 +3199,6 @@
       "path": "~/Misc/Wool"
     },
     {
-      "name": "RecipeRemover",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "recipe_disabler",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/procedures/RecipeRemoverProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Config"
-    },
-    {
-      "name": "Remover",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "remover",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/procedures/RemoverProcedure.java"
-        ],
-        "dependencies": []
-      },
-      "path": "~/Config"
-    },
-    {
-      "name": "Config",
-      "type": "gui",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "config",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/network/ConfigButtonMessage.java",
-          "src/main/java/net/mcreator/fatalscraftingqol/world/inventory/ConfigMenu.java",
-          "src/main/java/net/mcreator/fatalscraftingqol/client/gui/ConfigScreen.java"
-        ]
-      },
-      "path": "~/Config"
-    },
-    {
-      "name": "OpenConfigOnKeyReleased",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "open_config_on_key_released",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/procedures/OpenConfigOnKeyReleasedProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Config"
-    },
-    {
-      "name": "OpenConfig",
-      "type": "keybind",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "open_config",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/network/OpenConfigMessage.java"
-        ]
-      },
-      "path": "~/Config"
-    },
-    {
-      "name": "ToggleChainmailArmor",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "toggle_chainmail_armor",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/procedures/ToggleChainmailArmorProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Config/Chainmail Armor"
-    },
-    {
-      "name": "ChainmailEnabled",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chainmail_enabled",
-      "metadata": {
-        "return_type": "logic",
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/procedures/ChainmailEnabledProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Config/Chainmail Armor"
-    },
-    {
       "name": "BlackDye",
       "type": "recipe",
       "compiles": true,
@@ -3939,11 +3800,7 @@
   "tag_elements": {},
   "tab_element_order": {},
   "language_map": {
-    "en_us": {
-      "gui.fatals_qol_crafting.config.label_enabled": "Enabled",
-      "gui.fatals_qol_crafting.config.button_chainmail_armor": "Chainmail Armor",
-      "key.fatals_qol_crafting.open_config": "Open Config"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
@@ -4314,15 +4171,6 @@
         ]
       },
       {
-        "name": "Config",
-        "children": [
-          {
-            "name": "Chainmail Armor",
-            "children": []
-          }
-        ]
-      },
-      {
         "name": "Recipe Unlocks",
         "children": []
       },
@@ -4405,9 +4253,9 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.20.1",
+    "currentGenerator": "neoforge-1.20.4",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.fatalscraftingqol"
   },
-  "mcreatorVersion": 202400232117
+  "mcreatorVersion": 202500113416
 }

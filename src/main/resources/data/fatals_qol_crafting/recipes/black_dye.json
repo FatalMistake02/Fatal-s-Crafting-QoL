@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "tag": "minecraft:coals"
+      "item": "minecraft:air"
     }
   ],
   "result": {

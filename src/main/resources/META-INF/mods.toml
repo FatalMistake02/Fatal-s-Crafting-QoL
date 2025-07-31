@@ -1,5 +1,5 @@
 modLoader="javafml"
-loaderVersion="[47,)"
+loaderVersion="[2,)"
 license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
@@ -10,14 +10,22 @@ displayURL="https://fatalmistake02.com"
 logoFile="logo.png"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 authors="FatalMistake02"
+description="Changes some recipes and adds many new ones."
 
 # Start of user code block mod configuration
 # End of user code block mod configuration
 
 [[dependencies.fatals_qol_crafting]]
+    modId="neoforge"
+    type="required"
+    versionRange="[20.4.248,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.fatals_qol_crafting]]
     modId="minecraft"
-    mandatory=true
-    versionRange="[1.20.1]"
+    type="required"
+    versionRange="[1.20.4]"
     ordering="AFTER"
     side="BOTH"
 
