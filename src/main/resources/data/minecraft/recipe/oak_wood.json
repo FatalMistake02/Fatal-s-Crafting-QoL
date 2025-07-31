@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "id": "minecraft:oak_wood",
+    "count": 4
+  }
+}

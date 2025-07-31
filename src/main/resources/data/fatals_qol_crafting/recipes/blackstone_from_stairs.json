@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blackstone_stairs"
+    }
+  },
+  "result": {
+    "item": "minecraft:blackstone",
+    "count": 3
+  }
+}

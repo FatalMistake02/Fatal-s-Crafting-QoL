@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:waxed_exposed_cut_copper_stairs"
+    }
+  },
+  "result": {
+    "id": "minecraft:waxed_exposed_cut_copper",
+    "count": 3
+  }
+}

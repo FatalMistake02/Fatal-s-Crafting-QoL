@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bamboo_mosaic_stairs"
+    }
+  },
+  "result": {
+    "id": "minecraft:bamboo_mosaic",
+    "count": 3
+  }
+}

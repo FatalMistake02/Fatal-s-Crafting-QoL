@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "a a",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:crimson_stem"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest",
+    "count": 4
+  }
+}

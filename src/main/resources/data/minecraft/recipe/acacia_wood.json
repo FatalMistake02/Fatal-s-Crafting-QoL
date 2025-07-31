@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "id": "minecraft:acacia_wood",
+    "count": 4
+  }
+}

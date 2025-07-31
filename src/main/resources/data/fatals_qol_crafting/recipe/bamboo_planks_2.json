@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bamboo_stairs"
+    }
+  },
+  "result": {
+    "id": "minecraft:bamboo_planks",
+    "count": 3
+  }
+}

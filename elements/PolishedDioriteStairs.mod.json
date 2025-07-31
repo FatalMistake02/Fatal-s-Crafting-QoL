@@ -1,0 +1,48 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.STONE#4"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STONE#4"
+      },
+      {
+        "value": "Blocks.STONE#4"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STONE#4"
+      },
+      {
+        "value": "Blocks.STONE#4"
+      },
+      {
+        "value": "Blocks.STONE#4"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.POLISHED_DIORITE_STAIRS"
+    },
+    "name": "polished_diorite_stairs",
+    "namespace": "minecraft"
+  }
+}
