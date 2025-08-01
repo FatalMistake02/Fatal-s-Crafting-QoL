@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bbb"
+  ],
+  "key": {
+    "a": "minecraft:blaze_rod",
+    "b": "#c:stones"
+  },
+  "result": {
+    "id": "minecraft:brewing_stand",
+    "count": 1
+  }
+}

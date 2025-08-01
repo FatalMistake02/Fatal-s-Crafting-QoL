@@ -1,0 +1,48 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.PALE_OAK_LOG"
+      },
+      {
+        "value": "Blocks.PALE_OAK_LOG"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.PALE_OAK_LOG"
+      },
+      {
+        "value": "Blocks.PALE_OAK_LOG"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.PALE_OAK_WOOD"
+    },
+    "name": "pale_oak_wood",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.POLISHED_GRANITE_STAIRS"
+      },
+      {
+        "value": "Blocks.POLISHED_GRANITE_STAIRS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.POLISHED_GRANITE_STAIRS"
+      },
+      {
+        "value": "Blocks.POLISHED_GRANITE_STAIRS"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.STONE#2"
+    },
+    "name": "polished_granite_2",
+    "namespace": "mod"
+  }
+}

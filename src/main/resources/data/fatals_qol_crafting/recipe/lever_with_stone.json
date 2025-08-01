@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "minecraft:stick",
+    "b": "#c:stones"
+  },
+  "result": {
+    "id": "minecraft:lever",
+    "count": 1
+  }
+}

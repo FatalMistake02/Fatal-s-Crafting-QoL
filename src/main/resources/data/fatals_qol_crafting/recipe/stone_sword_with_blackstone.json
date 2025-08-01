@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "minecraft:blackstone",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:stone_sword",
+    "count": 1
+  }
+}

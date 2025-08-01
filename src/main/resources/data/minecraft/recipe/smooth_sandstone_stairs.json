@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:smooth_sandstone"
+  },
+  "result": {
+    "id": "minecraft:smooth_sandstone_stairs",
+    "count": 8
+  }
+}

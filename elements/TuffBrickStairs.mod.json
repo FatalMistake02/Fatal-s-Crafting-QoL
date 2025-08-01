@@ -1,0 +1,48 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.TUFF_BRICKS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.TUFF_BRICKS"
+      },
+      {
+        "value": "Blocks.TUFF_BRICKS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.TUFF_BRICKS"
+      },
+      {
+        "value": "Blocks.TUFF_BRICKS"
+      },
+      {
+        "value": "Blocks.TUFF_BRICKS"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.TUFF_BRICK_STAIRS"
+    },
+    "name": "tuff_brick_stairs",
+    "namespace": "minecraft"
+  }
+}
