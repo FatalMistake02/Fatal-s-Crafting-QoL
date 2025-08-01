@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbc",
+    "aaa"
+  ],
+  "key": {
+    "a": "#c:stones",
+    "b": "minecraft:redstone",
+    "c": "minecraft:quartz"
+  },
+  "result": {
+    "id": "minecraft:observer",
+    "count": 1
+  }
+}

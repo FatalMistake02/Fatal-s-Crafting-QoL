@@ -1,0 +1,48 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.WAXED_EXPOSED_CUT_COPPER"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.WAXED_EXPOSED_CUT_COPPER"
+      },
+      {
+        "value": "Blocks.WAXED_EXPOSED_CUT_COPPER"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.WAXED_EXPOSED_CUT_COPPER"
+      },
+      {
+        "value": "Blocks.WAXED_EXPOSED_CUT_COPPER"
+      },
+      {
+        "value": "Blocks.WAXED_EXPOSED_CUT_COPPER"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.WAXED_EXPOSED_CUT_COPPER_STAIRS"
+    },
+    "name": "waxed_exposed_cut_copper_stairs",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    " b",
+    " b"
+  ],
+  "key": {
+    "a": "minecraft:cobbled_deepslate",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:stone_hoe",
+    "count": 1
+  }
+}

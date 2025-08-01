@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:spruce_planks",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:spruce_fence",
+    "count": 6
+  }
+}

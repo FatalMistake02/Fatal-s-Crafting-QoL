@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "b"
+  ],
+  "key": {
+    "a": "minecraft:blackstone",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:stone_shovel",
+    "count": 1
+  }
+}

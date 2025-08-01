@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:warped_planks"
+  },
+  "result": {
+    "id": "minecraft:warped_stairs",
+    "count": 8
+  }
+}

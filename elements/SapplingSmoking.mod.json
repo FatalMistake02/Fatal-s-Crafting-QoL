@@ -1,0 +1,22 @@
+{
+  "_fv": 77,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 50,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "Blocks.SAPLING"
+    },
+    "smokingReturnStack": {
+      "value": "Blocks.DEADBUSH"
+    },
+    "name": "sappling_smoking",
+    "namespace": "mod"
+  }
+}

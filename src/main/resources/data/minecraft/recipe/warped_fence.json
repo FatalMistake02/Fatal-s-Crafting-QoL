@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:warped_planks",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:warped_fence",
+    "count": 6
+  }
+}

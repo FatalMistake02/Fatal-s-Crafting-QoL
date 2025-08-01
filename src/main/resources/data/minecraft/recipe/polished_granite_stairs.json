@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:polished_granite"
+  },
+  "result": {
+    "id": "minecraft:polished_granite_stairs",
+    "count": 8
+  }
+}

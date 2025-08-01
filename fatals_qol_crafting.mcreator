@@ -1,0 +1,4534 @@
+{
+  "mod_elements": [
+    {
+      "name": "OakStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/oak_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "OakButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/oak_button.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "OakTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/oak_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "OakPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/oak_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "OakWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/oak_wood.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "OakFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/oak_fence.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "SpruceButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/spruce_button.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "SpruceFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/spruce_fence.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "SprucePressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/spruce_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "SpruceStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/spruce_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "SpruceTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/spruce_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "SpruceWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/spruce_wood.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "BirchButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/birch_button.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "BirchFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/birch_fence.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "BirchPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/birch_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "BirchTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/birch_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "BirchWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/birch_wood.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "BirchStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/birch_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "JungleButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/jungle_button.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "JunglePressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/jungle_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "JungleFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/jungle_fence.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "JungleStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/jungle_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "JungleTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/jungle_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "JungleWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/jungle_wood.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "AcaciaButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/acacia_button.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "AcaciaFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/acacia_fence.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "AcaciaPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/acacia_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "AcaciaStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/acacia_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "AcaciaTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/acacia_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "AcaciaWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/acacia_wood.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "DarkOakButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/dark_oak_button.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "DarkOakFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/dark_oak_fence.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "DarkOakPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/dark_oak_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "DarkOakStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/dark_oak_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "DarkOakTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/dark_oak_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "DarkOakWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/dark_oak_wood.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "MangroveButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/mangrove_button.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "MangroveFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/mangrove_fence.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "MangrovePressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/mangrove_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "MangroveStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/mangrove_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "MangroveTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/mangrove_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "MangroveWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/mangrove_wood.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "CherryButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/cherry_button.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "CherryFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/cherry_fence.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "CherryPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/cherry_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "CherryStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/cherry_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "CherryTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/cherry_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "CherryWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/cherry_wood.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "BambooButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/bamboo_button.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "BambooFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/bamboo_fence.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "BambooPressurePLate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_pressure_p_late",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/bamboo_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "BambooStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/bamboo_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "BambooTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/bamboo_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "CrimsonButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/crimson_button.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "CrimsonFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/crimson_fence.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "CrimsonPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/crimson_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "CrimsonStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/crimson_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "CrimsonTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/crimson_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "CrimsonHyphae",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_hyphae",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/crimson_hyphae.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "WarpedButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/warped_button.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "WarpedFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/warped_fence.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "WarpedPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/warped_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "WarpedStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/warped_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "WarpedTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/warped_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "WarpedHyphae",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_hyphae",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/warped_hyphae.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "OakPlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/oak_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "OakPlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/oak_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Oak"
+    },
+    {
+      "name": "SprucePlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/spruce_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "SprucePlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spruce_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/spruce_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Spruce"
+    },
+    {
+      "name": "BirchPlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/birch_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "BirchPlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birch_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/birch_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Birch"
+    },
+    {
+      "name": "JunglePlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/jungle_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "JunglePlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jungle_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/jungle_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Jungle"
+    },
+    {
+      "name": "AcaciaPlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/acacia_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "AcaciaPlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/acacia_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Acacia"
+    },
+    {
+      "name": "DarkOakPlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/dark_oak_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "DarkOakPlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_oak_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/dark_oak_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Dark Oak"
+    },
+    {
+      "name": "MangrovePlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/mangrove_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "MangrovePlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mangrove_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/mangrove_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Mangrove"
+    },
+    {
+      "name": "CherryPlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/cherry_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "CherryPlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cherry_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/cherry_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Cherry"
+    },
+    {
+      "name": "BambooPlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/bamboo_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "BambooPlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/bamboo_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "CrimsonPlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/crimson_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "CrimsonPlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/crimson_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Crimson"
+    },
+    {
+      "name": "WarpedPlanks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_planks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/warped_planks_1.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "WarpedPlanks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_planks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/warped_planks_2.json"
+        ]
+      },
+      "path": "~/Wood/Warped"
+    },
+    {
+      "name": "BambooMosaicStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_mosaic_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/bamboo_mosaic_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "BambooMosaic1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_mosaic_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/bamboo_mosaic_1.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "StoneStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/stone_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Stone"
+    },
+    {
+      "name": "CobblestoneStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/cobblestone_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Cobblestone"
+    },
+    {
+      "name": "MossyCobblestoneStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_cobblestone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/mossy_cobblestone_stairs.json"
+        ]
+      },
+      "path": "~/Stone/MossyCobblestone"
+    },
+    {
+      "name": "StoneBrickStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/stone_brick_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Stone Bricks"
+    },
+    {
+      "name": "MossyStoneBrickStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_stone_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/mossy_stone_brick_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Mossy Stone Bricks"
+    },
+    {
+      "name": "GraniteStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/granite_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Granite"
+    },
+    {
+      "name": "PolishedGraniteStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_granite_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/polished_granite_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Granite"
+    },
+    {
+      "name": "DioriteStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/diorite_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Diorite"
+    },
+    {
+      "name": "PolishedDioriteStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_diorite_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/polished_diorite_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Diorite"
+    },
+    {
+      "name": "AndesiteStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/andesite_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Andesite"
+    },
+    {
+      "name": "PolishedAndesiteStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_andesite_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/polished_andesite_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Andesite"
+    },
+    {
+      "name": "CobbledDeepslateStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepslate_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/cobbled_deepslate_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Deepslate/Cobbled Deepslate"
+    },
+    {
+      "name": "PolishedDeepslateStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepslate_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/polished_deepslate_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Deepslate/Polished Deepslate"
+    },
+    {
+      "name": "DeepslateBrickStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/deepslate_brick_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Deepslate/Deepslate Bricks"
+    },
+    {
+      "name": "DeepslateTileStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_tile_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/deepslate_tile_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Deepslate/Deepslate Tiles"
+    },
+    {
+      "name": "BrickStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/brick_stairs.json"
+        ]
+      },
+      "path": "~/Bricks/Bricks"
+    },
+    {
+      "name": "MudBrickStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mud_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/mud_brick_stairs.json"
+        ]
+      },
+      "path": "~/Bricks/Mud Bricks"
+    },
+    {
+      "name": "SandstoneStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sandstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/sandstone_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Sandstone/Sanstone"
+    },
+    {
+      "name": "SmoothSandstoneStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_sandstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/smooth_sandstone_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Sandstone/Smooth Sandstone"
+    },
+    {
+      "name": "RedSandstoneStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_sandstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/red_sandstone_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Red Sandstone/RedSandstone"
+    },
+    {
+      "name": "SmoothRedSandstoneStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_red_sandstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/smooth_red_sandstone_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Red Sandstone/Smooth Red Sandstone"
+    },
+    {
+      "name": "PrismarineStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prismarine_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/prismarine_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Prismarine/Prismarine"
+    },
+    {
+      "name": "PrismarineBrickStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prismarine_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/prismarine_brick_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Prismarine/Prismarine Bricks"
+    },
+    {
+      "name": "DarkPrismarineStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_prismarine_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/dark_prismarine_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Prismarine/Dark Prismarine"
+    },
+    {
+      "name": "NetherBrickStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/nether_brick_stairs.json"
+        ]
+      },
+      "path": "~/Bricks/Nether Bricks/Nether Bricks"
+    },
+    {
+      "name": "RedNetherBrickStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_nether_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/red_nether_brick_stairs.json"
+        ]
+      },
+      "path": "~/Bricks/Nether Bricks/Red Nether Bricks"
+    },
+    {
+      "name": "BlackstoneStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/blackstone_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Blackstone/Blackstone"
+    },
+    {
+      "name": "PolishedBlackstoneStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_blackstone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/polished_blackstone_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Blackstone/Polished Blackstone"
+    },
+    {
+      "name": "PolishedBlackstoneBrickStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_blackstone_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/polished_blackstone_brick_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Blackstone/Polished Blackstone Bricks"
+    },
+    {
+      "name": "EndStoneBrickStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_stone_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/end_stone_brick_stairs.json"
+        ]
+      },
+      "path": "~/Stone/End Stone Bricks"
+    },
+    {
+      "name": "PurpurStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purpur_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/purpur_stairs.json"
+        ]
+      },
+      "path": "~/Misc/Purpur"
+    },
+    {
+      "name": "QuartzStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quartz_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/quartz_stairs.json"
+        ]
+      },
+      "path": "~/Misc/Quartz/Quartz"
+    },
+    {
+      "name": "SmoothQuartzStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_quartz_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/smooth_quartz_stairs.json"
+        ]
+      },
+      "path": "~/Misc/Quartz/Smooth Quartz"
+    },
+    {
+      "name": "CutCopperStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_copper_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/cut_copper_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Cut Copper"
+    },
+    {
+      "name": "WaxedCutCopperStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waxed_cut_copper_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/waxed_cut_copper_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Cut Copper/Waxed"
+    },
+    {
+      "name": "ExposedCutCopperStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exposed_cut_copper_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/exposed_cut_copper_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Exposed Cut Copper"
+    },
+    {
+      "name": "WaxedExposedCutCopperStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waxed_exposed_cut_copper_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/waxed_exposed_cut_copper_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Exposed Cut Copper/Waxed"
+    },
+    {
+      "name": "WeatheredCutCopperStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weathered_cut_copper_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/weathered_cut_copper_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Weathered Cut Copper"
+    },
+    {
+      "name": "WaxedWeatheredCutCopperStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waxed_weathered_cut_copper_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/waxed_weathered_cut_copper_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Weathered Cut Copper/Waxed"
+    },
+    {
+      "name": "OxidizedCutCopperStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oxidized_cut_copper_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/oxidized_cut_copper_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/OxidizedCut Copper"
+    },
+    {
+      "name": "WaxedOxidizedCutCopperStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waxed_oxidized_cut_copper_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/waxed_oxidized_cut_copper_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/OxidizedCut Copper/Waxed"
+    },
+    {
+      "name": "BambooMosaic2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo_mosaic_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/bamboo_mosaic_2.json"
+        ]
+      },
+      "path": "~/Wood/Bamboo"
+    },
+    {
+      "name": "Stone1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_1.json"
+        ]
+      },
+      "path": "~/Stone/Stone"
+    },
+    {
+      "name": "Stone2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_2.json"
+        ]
+      },
+      "path": "~/Stone/Stone"
+    },
+    {
+      "name": "Cobblestone1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/cobblestone_1.json"
+        ]
+      },
+      "path": "~/Stone/Cobblestone"
+    },
+    {
+      "name": "Cobblestone2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobblestone_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/cobblestone_2.json"
+        ]
+      },
+      "path": "~/Stone/Cobblestone"
+    },
+    {
+      "name": "MossyCobbletone1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_cobbletone_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/mossy_cobbletone_1.json"
+        ]
+      },
+      "path": "~/Stone/MossyCobblestone"
+    },
+    {
+      "name": "MossyCobblestone2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_cobblestone_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/mossy_cobblestone_2.json"
+        ]
+      },
+      "path": "~/Stone/MossyCobblestone"
+    },
+    {
+      "name": "SmoothStone1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_stone_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/smooth_stone_1.json"
+        ]
+      },
+      "path": "~/Stone/SmoothStone"
+    },
+    {
+      "name": "StoneBricks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_bricks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_bricks_1.json"
+        ]
+      },
+      "path": "~/Stone/Stone Bricks"
+    },
+    {
+      "name": "StoneBricks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_bricks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_bricks_2.json"
+        ]
+      },
+      "path": "~/Stone/Stone Bricks"
+    },
+    {
+      "name": "MossyStoneBricks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_stone_bricks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/mossy_stone_bricks_1.json"
+        ]
+      },
+      "path": "~/Stone/Mossy Stone Bricks"
+    },
+    {
+      "name": "MossyStoneBricks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_stone_bricks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/mossy_stone_bricks_2.json"
+        ]
+      },
+      "path": "~/Stone/Mossy Stone Bricks"
+    },
+    {
+      "name": "Granite1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/granite_1.json"
+        ]
+      },
+      "path": "~/Stone/Granite"
+    },
+    {
+      "name": "Granite2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/granite_2.json"
+        ]
+      },
+      "path": "~/Stone/Granite"
+    },
+    {
+      "name": "PolishedGranite1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_granite_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_granite_1.json"
+        ]
+      },
+      "path": "~/Stone/Granite"
+    },
+    {
+      "name": "PolishedGranite2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_granite_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_granite_2.json"
+        ]
+      },
+      "path": "~/Stone/Granite"
+    },
+    {
+      "name": "Diorite1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/diorite_1.json"
+        ]
+      },
+      "path": "~/Stone/Diorite"
+    },
+    {
+      "name": "Diorite2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/diorite_2.json"
+        ]
+      },
+      "path": "~/Stone/Diorite"
+    },
+    {
+      "name": "PolishedDiorite1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_diorite_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_diorite_1.json"
+        ]
+      },
+      "path": "~/Stone/Diorite"
+    },
+    {
+      "name": "PolishedDiorite2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_diorite_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_diorite_2.json"
+        ]
+      },
+      "path": "~/Stone/Diorite"
+    },
+    {
+      "name": "Andesite1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/andesite_1.json"
+        ]
+      },
+      "path": "~/Stone/Andesite"
+    },
+    {
+      "name": "Andesite2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/andesite_2.json"
+        ]
+      },
+      "path": "~/Stone/Andesite"
+    },
+    {
+      "name": "PolishedAndesite1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_andesite_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_andesite_1.json"
+        ]
+      },
+      "path": "~/Stone/Andesite"
+    },
+    {
+      "name": "PolishedAndesite2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_andesite_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_andesite_2.json"
+        ]
+      },
+      "path": "~/Stone/Andesite"
+    },
+    {
+      "name": "CobbledDeepslate1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepslate_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/cobbled_deepslate_1.json"
+        ]
+      },
+      "path": "~/Stone/Deepslate/Cobbled Deepslate"
+    },
+    {
+      "name": "CobbledDeepslate2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobbled_deepslate_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/cobbled_deepslate_2.json"
+        ]
+      },
+      "path": "~/Stone/Deepslate/Cobbled Deepslate"
+    },
+    {
+      "name": "PolishedDeepslate1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepslate_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_deepslate_1.json"
+        ]
+      },
+      "path": "~/Stone/Deepslate/Polished Deepslate"
+    },
+    {
+      "name": "PolishedDeepslate2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_deepslate_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_deepslate_2.json"
+        ]
+      },
+      "path": "~/Stone/Deepslate/Polished Deepslate"
+    },
+    {
+      "name": "DeepslateBricks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_bricks_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/deepslate_bricks_1.json"
+        ]
+      },
+      "path": "~/Stone/Deepslate/Deepslate Bricks"
+    },
+    {
+      "name": "DeepslateBricks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_bricks_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/deepslate_bricks_2.json"
+        ]
+      },
+      "path": "~/Stone/Deepslate/Deepslate Bricks"
+    },
+    {
+      "name": "DeepslateTiles1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_tiles_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/deepslate_tiles_1.json"
+        ]
+      },
+      "path": "~/Stone/Deepslate/Deepslate Tiles"
+    },
+    {
+      "name": "DeepslateTiles2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_tiles_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/deepslate_tiles_2.json"
+        ]
+      },
+      "path": "~/Stone/Deepslate/Deepslate Tiles"
+    },
+    {
+      "name": "BricksFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bricks_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/bricks_from_slabs.json"
+        ]
+      },
+      "path": "~/Bricks/Bricks"
+    },
+    {
+      "name": "BricksFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bricks_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/bricks_from_stairs.json"
+        ]
+      },
+      "path": "~/Bricks/Bricks"
+    },
+    {
+      "name": "MudBrickFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mud_brick_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/mud_brick_from_slabs.json"
+        ]
+      },
+      "path": "~/Bricks/Mud Bricks"
+    },
+    {
+      "name": "MudBricksFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mud_bricks_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/mud_bricks_from_stairs.json"
+        ]
+      },
+      "path": "~/Bricks/Mud Bricks"
+    },
+    {
+      "name": "SandstoneFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sandstone_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/sandstone_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Sandstone/Sanstone"
+    },
+    {
+      "name": "SmoothSandstoneFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_sandstone_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/smooth_sandstone_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Sandstone/Smooth Sandstone"
+    },
+    {
+      "name": "SmoothSandstoneFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_sandstone_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/smooth_sandstone_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Sandstone/Smooth Sandstone"
+    },
+    {
+      "name": "CutSandstoneFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_sandstone_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/cut_sandstone_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Sandstone/Cut Sandstone"
+    },
+    {
+      "name": "SandstoneFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sandstone_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/sandstone_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Sandstone/Sanstone"
+    },
+    {
+      "name": "RedSandstoneFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_sandstone_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/red_sandstone_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Red Sandstone/RedSandstone"
+    },
+    {
+      "name": "RedSandstoneFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_sandstone_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/red_sandstone_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Red Sandstone/RedSandstone"
+    },
+    {
+      "name": "SmoothRedSandstoneFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_red_sandstone_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/smooth_red_sandstone_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Red Sandstone/Smooth Red Sandstone"
+    },
+    {
+      "name": "SmoothRedSandstoneFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_red_sandstone_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/smooth_red_sandstone_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Red Sandstone/Smooth Red Sandstone"
+    },
+    {
+      "name": "CutRedSandstoneFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_red_sandstone_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/cut_red_sandstone_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Sandstone/Red Sandstone/Cut Red Sandstone"
+    },
+    {
+      "name": "PrismarineFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prismarine_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/prismarine_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Prismarine/Prismarine"
+    },
+    {
+      "name": "PrismarineFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prismarine_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/prismarine_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Prismarine/Prismarine"
+    },
+    {
+      "name": "PrismarineBricksFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prismarine_bricks_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/prismarine_bricks_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Prismarine/Prismarine Bricks"
+    },
+    {
+      "name": "PrismarineBricksFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prismarine_bricks_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/prismarine_bricks_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Prismarine/Prismarine Bricks"
+    },
+    {
+      "name": "DarkPrismarineFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_prismarine_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/dark_prismarine_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Prismarine/Dark Prismarine"
+    },
+    {
+      "name": "DarkPrismarineFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_prismarine_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/dark_prismarine_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Prismarine/Dark Prismarine"
+    },
+    {
+      "name": "NetherBricksFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_bricks_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/nether_bricks_from_slabs.json"
+        ]
+      },
+      "path": "~/Bricks/Nether Bricks/Nether Bricks"
+    },
+    {
+      "name": "NetherBricksFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_bricks_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/nether_bricks_from_stairs.json"
+        ]
+      },
+      "path": "~/Bricks/Nether Bricks/Nether Bricks"
+    },
+    {
+      "name": "RedNetherBricksFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_nether_bricks_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/red_nether_bricks_from_slabs.json"
+        ]
+      },
+      "path": "~/Bricks/Nether Bricks/Red Nether Bricks"
+    },
+    {
+      "name": "RedNetherBricksFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_nether_bricks_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/red_nether_bricks_from_stairs.json"
+        ]
+      },
+      "path": "~/Bricks/Nether Bricks/Red Nether Bricks"
+    },
+    {
+      "name": "BlackstoneFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/blackstone_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Blackstone/Blackstone"
+    },
+    {
+      "name": "BlackstoneFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstone_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/blackstone_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Blackstone/Blackstone"
+    },
+    {
+      "name": "PolishedBlackstoneFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_blackstone_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_blackstone_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Blackstone/Polished Blackstone"
+    },
+    {
+      "name": "PolishedBlackstoneFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_blackstone_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_blackstone_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Blackstone/Polished Blackstone"
+    },
+    {
+      "name": "PolishedBlackstoneBricksFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_blackstone_bricks_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_blackstone_bricks_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Blackstone/Polished Blackstone Bricks"
+    },
+    {
+      "name": "PolishedBlackstoneBricksFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_blackstone_bricks_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_blackstone_bricks_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Blackstone/Polished Blackstone Bricks"
+    },
+    {
+      "name": "EndStoneBricksFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_stone_bricks_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/end_stone_bricks_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/End Stone Bricks"
+    },
+    {
+      "name": "EndStoneBricksFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_stone_bricks_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/end_stone_bricks_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/End Stone Bricks"
+    },
+    {
+      "name": "PurpurFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purpur_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/purpur_from_slabs.json"
+        ]
+      },
+      "path": "~/Misc/Purpur"
+    },
+    {
+      "name": "PurpurFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purpur_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/purpur_from_stairs.json"
+        ]
+      },
+      "path": "~/Misc/Purpur"
+    },
+    {
+      "name": "QuartzFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quartz_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/quartz_from_slabs.json"
+        ]
+      },
+      "path": "~/Misc/Quartz/Quartz"
+    },
+    {
+      "name": "QuartzFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quartz_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/quartz_from_stairs.json"
+        ]
+      },
+      "path": "~/Misc/Quartz/Quartz"
+    },
+    {
+      "name": "SmoothQuartzFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_quartz_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/smooth_quartz_from_slabs.json"
+        ]
+      },
+      "path": "~/Misc/Quartz/Smooth Quartz"
+    },
+    {
+      "name": "SmoothQuartzFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_quartz_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/smooth_quartz_from_stairs.json"
+        ]
+      },
+      "path": "~/Misc/Quartz/Smooth Quartz"
+    },
+    {
+      "name": "CutCopperFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_copper_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/cut_copper_from_slabs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Cut Copper"
+    },
+    {
+      "name": "CutCopperFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_copper_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/cut_copper_from_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Cut Copper"
+    },
+    {
+      "name": "WaxedCutCopperFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waxed_cut_copper_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/waxed_cut_copper_from_slabs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Cut Copper/Waxed"
+    },
+    {
+      "name": "WaxedCutCopperFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waxed_cut_copper_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/waxed_cut_copper_from_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Cut Copper/Waxed"
+    },
+    {
+      "name": "ExposedCutCopperFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exposed_cut_copper_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/exposed_cut_copper_from_slabs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Exposed Cut Copper"
+    },
+    {
+      "name": "ExposedCutCopperFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exposed_cut_copper_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/exposed_cut_copper_from_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Exposed Cut Copper"
+    },
+    {
+      "name": "WaxedExposedCutCopperFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waxed_exposed_cut_copper_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/waxed_exposed_cut_copper_from_slabs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Exposed Cut Copper/Waxed"
+    },
+    {
+      "name": "WaxedExposedCutCopperFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waxed_exposed_cut_copper_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/waxed_exposed_cut_copper_from_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Exposed Cut Copper/Waxed"
+    },
+    {
+      "name": "WeatheredCutCopperFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weathered_cut_copper_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/weathered_cut_copper_from_slabs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Weathered Cut Copper"
+    },
+    {
+      "name": "WeatheredCutCopperFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weathered_cut_copper_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/weathered_cut_copper_from_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Weathered Cut Copper"
+    },
+    {
+      "name": "WaxedWeatheredCutCopperFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waxed_weathered_cut_copper_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/waxed_weathered_cut_copper_from_slabs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Weathered Cut Copper/Waxed"
+    },
+    {
+      "name": "WaxedWeatheredCutCopperFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waxed_weathered_cut_copper_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/waxed_weathered_cut_copper_from_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/Weathered Cut Copper/Waxed"
+    },
+    {
+      "name": "OxidizedCutCopperFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oxidized_cut_copper_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/oxidized_cut_copper_from_slabs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/OxidizedCut Copper"
+    },
+    {
+      "name": "OxidizedCutCopperFromStairss",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oxidized_cut_copper_from_stairss",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/oxidized_cut_copper_from_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/OxidizedCut Copper"
+    },
+    {
+      "name": "WaxedOxidizedCutCopperFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waxed_oxidized_cut_copper_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/waxed_oxidized_cut_copper_from_slabs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/OxidizedCut Copper/Waxed"
+    },
+    {
+      "name": "WaxedOxidizedCutCopperFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waxed_oxidized_cut_copper_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/waxed_oxidized_cut_copper_from_stairs.json"
+        ]
+      },
+      "path": "~/Metals/Copper/Cut Copper/OxidizedCut Copper/Waxed"
+    },
+    {
+      "name": "PolishedBlackstoneButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_blackstone_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/polished_blackstone_button.json"
+        ]
+      },
+      "path": "~/Stone/Blackstone/Polished Blackstone"
+    },
+    {
+      "name": "StoneButton1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_button_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/stone_button.json"
+        ]
+      },
+      "path": "~/Stone/Stone"
+    },
+    {
+      "name": "IronTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/iron_trapdoor.json"
+        ]
+      },
+      "path": "~/Metals/Iron"
+    },
+    {
+      "name": "PolishedBlackstonePressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_blackstone_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/polished_blackstone_pressure_plate.json"
+        ]
+      },
+      "path": "~/Stone/Blackstone/Polished Blackstone"
+    },
+    {
+      "name": "StonePressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/stone_pressure_plate.json"
+        ]
+      },
+      "path": "~/Stone/Stone"
+    },
+    {
+      "name": "HeavyWeightedPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heavy_weighted_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/heavy_weighted_pressure_plate.json"
+        ]
+      },
+      "path": "~/Metals/Iron"
+    },
+    {
+      "name": "LightWeightedPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_weighted_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/light_weighted_pressure_plate.json"
+        ]
+      },
+      "path": "~/Metals/Gold"
+    },
+    {
+      "name": "RawCopperBlockSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_copper_block_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/raw_copper_block_smelting.json"
+        ]
+      },
+      "path": "~/Metals/Copper"
+    },
+    {
+      "name": "RawIronBlockSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_iron_block_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/raw_iron_block_smelting.json"
+        ]
+      },
+      "path": "~/Metals/Iron"
+    },
+    {
+      "name": "RawGoldBlockSmelting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_gold_block_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/raw_gold_block_smelting.json"
+        ]
+      },
+      "path": "~/Metals/Gold"
+    },
+    {
+      "name": "RawCopperBlockBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_copper_block_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/raw_copper_block_blasting.json"
+        ]
+      },
+      "path": "~/Metals/Copper"
+    },
+    {
+      "name": "RawIronBlockBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_iron_block_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/raw_iron_block_blasting.json"
+        ]
+      },
+      "path": "~/Metals/Iron"
+    },
+    {
+      "name": "RawGoldBlockBlasting",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_gold_block_blasting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/raw_gold_block_blasting.json"
+        ]
+      },
+      "path": "~/Metals/Gold"
+    },
+    {
+      "name": "Dispenser",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dispenser",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/dispenser.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Dispensers"
+    },
+    {
+      "name": "NetherWart",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_wart",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/nether_wart.json"
+        ]
+      },
+      "path": "~/Misc/Warts"
+    },
+    {
+      "name": "ChainmailHelmet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainmail_helmet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/chainmail_helmet.json"
+        ]
+      },
+      "path": "~/Metals/Iron/Chainmail"
+    },
+    {
+      "name": "ChainmailChestplate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainmail_chestplate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/chainmail_chestplate.json"
+        ]
+      },
+      "path": "~/Metals/Iron/Chainmail"
+    },
+    {
+      "name": "ChainmailLeggings",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainmail_leggings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/chainmail_leggings.json"
+        ]
+      },
+      "path": "~/Metals/Iron/Chainmail"
+    },
+    {
+      "name": "ChainmailBoots",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chainmail_boots",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/chainmail_boots.json"
+        ]
+      },
+      "path": "~/Metals/Iron/Chainmail"
+    },
+    {
+      "name": "Cobwebs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cobwebs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/cobweb.json"
+        ]
+      },
+      "path": "~/Misc/Cobwebs"
+    },
+    {
+      "name": "NetherQuartz",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_quartz",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/nether_quartz.json"
+        ]
+      },
+      "path": "~/Misc/Quartz"
+    },
+    {
+      "name": "Clay",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clay",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/clay.json"
+        ]
+      },
+      "path": "~/Misc/Clay"
+    },
+    {
+      "name": "SapplingSmoking",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sappling_smoking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/sappling_smoking.json"
+        ]
+      },
+      "path": "~/Misc/DeadBush"
+    },
+    {
+      "name": "Chest",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/chest_1.json"
+        ]
+      },
+      "path": "~/Wood/Chests"
+    },
+    {
+      "name": "Chest2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/chest_2.json"
+        ]
+      },
+      "path": "~/Wood/Chests"
+    },
+    {
+      "name": "Chest3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/chest_3.json"
+        ]
+      },
+      "path": "~/Wood/Chests"
+    },
+    {
+      "name": "Chest4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/chest_4.json"
+        ]
+      },
+      "path": "~/Wood/Chests"
+    },
+    {
+      "name": "CrimsonNylium",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_nylium",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/crimson_nylium.json"
+        ]
+      },
+      "path": "~/Misc/Nylium/Crimson"
+    },
+    {
+      "name": "WarpedNylium",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_nylium",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/warped_nylium.json"
+        ]
+      },
+      "path": "~/Misc/Nylium/Warped"
+    },
+    {
+      "name": "String",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "string",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/string.json"
+        ]
+      },
+      "path": "~/Misc/Wool"
+    },
+    {
+      "name": "BlackDye",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_dye",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/black_dye.json"
+        ]
+      },
+      "path": "~/Misc/Dye"
+    },
+    {
+      "name": "GreenDye",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_dye",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/green_dye.json"
+        ]
+      },
+      "path": "~/Misc/Dye"
+    },
+    {
+      "name": "DispenserWithStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dispenser_with_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/dispenser_with_stone.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Dispensers"
+    },
+    {
+      "name": "DispenserWithStone2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dispenser_with_stone_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/dispenser_with_deepslate.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Dispensers"
+    },
+    {
+      "name": "DispenserWithBlackstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dispenser_with_blackstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/dispenser_with_blackstone.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Dispensers"
+    },
+    {
+      "name": "DropperWithStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dropper_with_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/dropper_with_stone.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Dropper"
+    },
+    {
+      "name": "DropperWithDeepslate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dropper_with_deepslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/dropper_with_deepslate.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Dropper"
+    },
+    {
+      "name": "DropperWithBlackstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dropper_with_blackstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/dropper_with_blackstone.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Dropper"
+    },
+    {
+      "name": "FurnaceWithStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "furnace_with_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/furnace_with_stone.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Furnace"
+    },
+    {
+      "name": "BrewingStandWithStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brewing_stand_with_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/brewing_stand_with_stone.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Brewing Stand"
+    },
+    {
+      "name": "LeverWithStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lever_with_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/lever_with_stone.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Lever"
+    },
+    {
+      "name": "LeverWithDeepslate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lever_with_deepslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/lever_with_deepslate.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Lever"
+    },
+    {
+      "name": "LeverWithBlackstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lever_with_blackstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/lever_with_blackstone.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Lever"
+    },
+    {
+      "name": "ObserverWithStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "observer_with_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/observer_with_stone.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Observer"
+    },
+    {
+      "name": "ObserverWithDeepslate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "observer_with_deepslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/observer_with_deepslate.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Observer"
+    },
+    {
+      "name": "ObserverWithBlackstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "observer_with_blackstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/observer_with_blackstone.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Observer"
+    },
+    {
+      "name": "PistonWithStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piston_with_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/piston_with_stone.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Piston"
+    },
+    {
+      "name": "PistonWithDeepslate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piston_with_deepslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/piston_with_deepslate.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Piston"
+    },
+    {
+      "name": "PistonWithBlackstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piston_with_blackstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/piston_with_blackstone.json"
+        ]
+      },
+      "path": "~/Functional Blocks/Piston"
+    },
+    {
+      "name": "StoneAxeWithStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_axe_with_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_axe_with_stone.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Axe"
+    },
+    {
+      "name": "StoneAxeWithDeepslate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_axe_with_deepslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_axe_with_deepslate.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Axe"
+    },
+    {
+      "name": "StoneAxeWithBlackstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_axe_with_blackstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_axe_with_blackstone.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Axe"
+    },
+    {
+      "name": "StoneHoeWithStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_hoe_with_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_hoe_with_stone.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Hoe"
+    },
+    {
+      "name": "StoneHoeWithDeepslate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_hoe_with_deepslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_hoe_with_deepslate.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Hoe"
+    },
+    {
+      "name": "StoneHoeWithBlackstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_hoe_with_blackstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_hoe_with_blackstone.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Hoe"
+    },
+    {
+      "name": "StonePickaxeWithStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pickaxe_with_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_pickaxe_with_stone.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Pickaxe"
+    },
+    {
+      "name": "StonePickaxeWithDeepslate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pickaxe_with_deepslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_pickaxe_with_deepslate.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Pickaxe"
+    },
+    {
+      "name": "StonePickaxeWithBlackstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_pickaxe_with_blackstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_pickaxe_with_blackstone.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Pickaxe"
+    },
+    {
+      "name": "StoneShovelWithStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_shovel_with_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_shovel_with_stone.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Shovel"
+    },
+    {
+      "name": "StoneShovelWithDeepslate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_shovel_with_deepslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_shovel_with_deepslate.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Shovel"
+    },
+    {
+      "name": "StoneShovelWithBlackstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_shovel_with_blackstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_shovel_with_blackstone.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Shovel"
+    },
+    {
+      "name": "StoneSwordWithStone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_sword_with_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_sword_with_stone.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Sword"
+    },
+    {
+      "name": "StoneSwordWithDeepslate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_sword_with_deepslate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_sword_with_deepslate.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Sword"
+    },
+    {
+      "name": "StoneSwordWithBlackstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_sword_with_blackstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/stone_sword_with_blackstone.json"
+        ]
+      },
+      "path": "~/Weapons-Tools/Stone/Sword"
+    },
+    {
+      "name": "RootedDirt",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rooted_dirt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/rooted_dirt.json"
+        ]
+      },
+      "path": "~/Misc/Dirt"
+    },
+    {
+      "name": "DripstoneFromBlocks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dripstone_from_blocks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/dripstone_from_blocks.json"
+        ]
+      },
+      "path": "~/Stone/Dripstone"
+    },
+    {
+      "name": "GlowstoneDustFromBlocks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glowstone_dust_from_blocks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/glowstone_dust_from_blocks.json"
+        ]
+      },
+      "path": "~/Misc/Glowstone"
+    },
+    {
+      "name": "PaleOakStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_oak_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/pale_oak_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Pale Oak"
+    },
+    {
+      "name": "PaleOakButton",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_oak_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/pale_oak_button.json"
+        ]
+      },
+      "path": "~/Wood/Pale Oak"
+    },
+    {
+      "name": "PaleOakPressurePlate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_oak_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/pale_oak_pressure_plate.json"
+        ]
+      },
+      "path": "~/Wood/Pale Oak"
+    },
+    {
+      "name": "PaleOakTrapdoor",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_oak_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/pale_oak_trapdoor.json"
+        ]
+      },
+      "path": "~/Wood/Pale Oak"
+    },
+    {
+      "name": "PaleOakWood",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_oak_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/pale_oak_wood.json"
+        ]
+      },
+      "path": "~/Wood/Pale Oak"
+    },
+    {
+      "name": "PaleOakFence",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_oak_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/pale_oak_fence.json"
+        ]
+      },
+      "path": "~/Wood/Pale Oak"
+    },
+    {
+      "name": "PaleOakPlanksFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_oak_planks_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/pale_oak_planks_from_slabs.json"
+        ]
+      },
+      "path": "~/Wood/Pale Oak"
+    },
+    {
+      "name": "PaleOakPlanksFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_oak_planks_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/pale_oak_planks_from_stairs.json"
+        ]
+      },
+      "path": "~/Wood/Pale Oak"
+    },
+    {
+      "name": "ResinBrickStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "resin_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/resin_brick_stairs.json"
+        ]
+      },
+      "path": "~/Bricks/Resin Bricks"
+    },
+    {
+      "name": "ResinBricksFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "resin_bricks_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/resin_bricks_from_slabs.json"
+        ]
+      },
+      "path": "~/Bricks/Resin Bricks"
+    },
+    {
+      "name": "ResinBricksFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "resin_bricks_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/resin_bricks_from_stairs.json"
+        ]
+      },
+      "path": "~/Bricks/Resin Bricks"
+    },
+    {
+      "name": "PolishedTuffStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_tuff_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/polished_tuff_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Tuff/PolishedTuff"
+    },
+    {
+      "name": "PolishedTuffFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_tuff_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_tuff_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Tuff/PolishedTuff"
+    },
+    {
+      "name": "PolishedTuffFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polished_tuff_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/polished_tuff_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Tuff/PolishedTuff"
+    },
+    {
+      "name": "TuffBrickStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tuff_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/tuff_brick_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Tuff/TuffBricks"
+    },
+    {
+      "name": "TuffBricksFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tuff_bricks_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/tuff_bricks_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Tuff/TuffBricks"
+    },
+    {
+      "name": "TuffBricksFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tuff_bricks_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/tuff_bricks_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Tuff/TuffBricks"
+    },
+    {
+      "name": "TuffStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tuff_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/tuff_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Tuff/Tuff"
+    },
+    {
+      "name": "TuffFromStairs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tuff_from_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/tuff_from_stairs.json"
+        ]
+      },
+      "path": "~/Stone/Tuff/Tuff"
+    },
+    {
+      "name": "TuffFromSlabs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tuff_from_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/tuff_from_slabs.json"
+        ]
+      },
+      "path": "~/Stone/Tuff/Tuff"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "ChainmailArmor",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "Stair",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "Button",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "Fences",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "PressurePlate",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "Trapdoor",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "Wood_Hyphae",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "SlabsToBlocks",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "StairsToBlocks",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "SmeltRawOreBlocks",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "Dispensers",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "NetherWartBlockUncraft",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "Cobwebs",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "QuartzBlockUncraft",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "ClayUncraft",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "DeadBush",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "ChestsFromLogs",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "CraftableNylium",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    },
+    {
+      "name": "WoolToString",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Wood",
+        "children": [
+          {
+            "name": "Oak",
+            "children": []
+          },
+          {
+            "name": "Spruce",
+            "children": []
+          },
+          {
+            "name": "Birch",
+            "children": []
+          },
+          {
+            "name": "Jungle",
+            "children": []
+          },
+          {
+            "name": "Acacia",
+            "children": []
+          },
+          {
+            "name": "Dark Oak",
+            "children": []
+          },
+          {
+            "name": "Mangrove",
+            "children": []
+          },
+          {
+            "name": "Cherry",
+            "children": []
+          },
+          {
+            "name": "Pale Oak",
+            "children": []
+          },
+          {
+            "name": "Bamboo",
+            "children": []
+          },
+          {
+            "name": "Crimson",
+            "children": []
+          },
+          {
+            "name": "Warped",
+            "children": []
+          },
+          {
+            "name": "Chests",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Stone",
+        "children": [
+          {
+            "name": "Deepslate",
+            "children": [
+              {
+                "name": "Cobbled Deepslate",
+                "children": []
+              },
+              {
+                "name": "Polished Deepslate",
+                "children": []
+              },
+              {
+                "name": "Deepslate Bricks",
+                "children": []
+              },
+              {
+                "name": "Deepslate Tiles",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Stone",
+            "children": []
+          },
+          {
+            "name": "Cobblestone",
+            "children": []
+          },
+          {
+            "name": "MossyCobblestone",
+            "children": []
+          },
+          {
+            "name": "Stone Bricks",
+            "children": []
+          },
+          {
+            "name": "Mossy Stone Bricks",
+            "children": []
+          },
+          {
+            "name": "Granite",
+            "children": []
+          },
+          {
+            "name": "Diorite",
+            "children": []
+          },
+          {
+            "name": "Andesite",
+            "children": []
+          },
+          {
+            "name": "Sandstone",
+            "children": [
+              {
+                "name": "Sandstone",
+                "children": [
+                  {
+                    "name": "Sanstone",
+                    "children": []
+                  },
+                  {
+                    "name": "Smooth Sandstone",
+                    "children": []
+                  },
+                  {
+                    "name": "Cut Sandstone",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Red Sandstone",
+                "children": [
+                  {
+                    "name": "RedSandstone",
+                    "children": []
+                  },
+                  {
+                    "name": "Smooth Red Sandstone",
+                    "children": []
+                  },
+                  {
+                    "name": "Cut Red Sandstone",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Prismarine",
+            "children": [
+              {
+                "name": "Prismarine",
+                "children": []
+              },
+              {
+                "name": "Prismarine Bricks",
+                "children": []
+              },
+              {
+                "name": "Dark Prismarine",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Blackstone",
+            "children": [
+              {
+                "name": "Blackstone",
+                "children": []
+              },
+              {
+                "name": "Polished Blackstone",
+                "children": []
+              },
+              {
+                "name": "Polished Blackstone Bricks",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "End Stone Bricks",
+            "children": []
+          },
+          {
+            "name": "SmoothStone",
+            "children": []
+          },
+          {
+            "name": "Tuff",
+            "children": [
+              {
+                "name": "PolishedTuff",
+                "children": []
+              },
+              {
+                "name": "TuffBricks",
+                "children": []
+              },
+              {
+                "name": "Tuff",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Dripstone",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bricks",
+        "children": [
+          {
+            "name": "Bricks",
+            "children": []
+          },
+          {
+            "name": "Mud Bricks",
+            "children": []
+          },
+          {
+            "name": "Resin Bricks",
+            "children": []
+          },
+          {
+            "name": "Nether Bricks",
+            "children": [
+              {
+                "name": "Nether Bricks",
+                "children": []
+              },
+              {
+                "name": "Red Nether Bricks",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Misc",
+        "children": [
+          {
+            "name": "Purpur",
+            "children": []
+          },
+          {
+            "name": "Quartz",
+            "children": [
+              {
+                "name": "Quartz",
+                "children": []
+              },
+              {
+                "name": "Smooth Quartz",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Warts",
+            "children": []
+          },
+          {
+            "name": "Cobwebs",
+            "children": []
+          },
+          {
+            "name": "Clay",
+            "children": []
+          },
+          {
+            "name": "DeadBush",
+            "children": []
+          },
+          {
+            "name": "Nylium",
+            "children": [
+              {
+                "name": "Crimson",
+                "children": []
+              },
+              {
+                "name": "Warped",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Wool",
+            "children": []
+          },
+          {
+            "name": "Dye",
+            "children": []
+          },
+          {
+            "name": "Dirt",
+            "children": []
+          },
+          {
+            "name": "Glowstone",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Metals",
+        "children": [
+          {
+            "name": "Copper",
+            "children": [
+              {
+                "name": "Cut Copper",
+                "children": [
+                  {
+                    "name": "Cut Copper",
+                    "children": [
+                      {
+                        "name": "Waxed",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Exposed Cut Copper",
+                    "children": [
+                      {
+                        "name": "Waxed",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Weathered Cut Copper",
+                    "children": [
+                      {
+                        "name": "Waxed",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "OxidizedCut Copper",
+                    "children": [
+                      {
+                        "name": "Waxed",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Iron",
+            "children": [
+              {
+                "name": "Chainmail",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Gold",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Recipe Unlocks",
+        "children": []
+      },
+      {
+        "name": "Functional Blocks",
+        "children": [
+          {
+            "name": "Dispensers",
+            "children": []
+          },
+          {
+            "name": "Dropper",
+            "children": []
+          },
+          {
+            "name": "Furnace",
+            "children": []
+          },
+          {
+            "name": "Brewing Stand",
+            "children": []
+          },
+          {
+            "name": "Lever",
+            "children": []
+          },
+          {
+            "name": "Observer",
+            "children": []
+          },
+          {
+            "name": "Piston",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Weapons-Tools",
+        "children": [
+          {
+            "name": "Stone",
+            "children": [
+              {
+                "name": "Axe",
+                "children": []
+              },
+              {
+                "name": "Hoe",
+                "children": []
+              },
+              {
+                "name": "Pickaxe",
+                "children": []
+              },
+              {
+                "name": "Shovel",
+                "children": []
+              },
+              {
+                "name": "Sword",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "fatals_qol_crafting",
+    "modName": "Fatal\u0027s QoL Crafting",
+    "version": "1.0.0",
+    "description": "Changes some recipes and adds many new ones.",
+    "author": "FatalMistake02",
+    "websiteURL": "https://fatalmistake02.com",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "serverSideOnly": false,
+    "modPicture": "crafting_table_side",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.fatalscraftingqol"
+  },
+  "mcreatorVersion": 202500113416
+}

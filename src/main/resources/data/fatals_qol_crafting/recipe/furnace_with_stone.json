@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a",
+    "aaa"
+  ],
+  "key": {
+    "a": "#c:stones"
+  },
+  "result": {
+    "id": "minecraft:furnace",
+    "count": 1
+  }
+}
