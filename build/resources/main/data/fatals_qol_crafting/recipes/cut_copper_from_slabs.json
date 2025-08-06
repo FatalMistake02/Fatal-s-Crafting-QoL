@@ -11,7 +11,7 @@
     }
   },
   "result": {
-    "item": "minecraft:cut_copper",
+    "id": "minecraft:cut_copper",
     "count": 1
   }
 }

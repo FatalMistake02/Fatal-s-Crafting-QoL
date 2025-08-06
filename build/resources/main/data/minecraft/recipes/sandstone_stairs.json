@@ -12,7 +12,7 @@
     }
   },
   "result": {
-    "item": "minecraft:sandstone_stairs",
+    "id": "minecraft:sandstone_stairs",
     "count": 8
   }
 }

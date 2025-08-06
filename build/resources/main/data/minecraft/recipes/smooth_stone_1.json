@@ -11,7 +11,7 @@
     }
   },
   "result": {
-    "item": "minecraft:smooth_stone",
+    "id": "minecraft:smooth_stone",
     "count": 1
   }
 }

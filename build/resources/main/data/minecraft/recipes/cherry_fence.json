@@ -14,7 +14,7 @@
     }
   },
   "result": {
-    "item": "minecraft:cherry_fence",
+    "id": "minecraft:cherry_fence",
     "count": 6
   }
 }

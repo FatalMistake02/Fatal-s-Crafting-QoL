@@ -14,7 +14,7 @@
     }
   },
   "result": {
-    "item": "minecraft:bamboo_fence",
+    "id": "minecraft:bamboo_fence",
     "count": 6
   }
 }

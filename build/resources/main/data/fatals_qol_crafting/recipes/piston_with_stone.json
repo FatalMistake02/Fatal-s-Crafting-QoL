@@ -11,7 +11,7 @@
       "tag": "minecraft:planks"
     },
     "b": {
-      "tag": "forge:stone"
+      "tag": "c:stones"
     },
     "c": {
       "item": "minecraft:iron_ingot"
@@ -21,7 +21,7 @@
     }
   },
   "result": {
-    "item": "minecraft:piston",
+    "id": "minecraft:piston",
     "count": 1
   }
 }

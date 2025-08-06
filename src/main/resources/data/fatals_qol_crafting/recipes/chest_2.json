@@ -8,11 +8,11 @@
   ],
   "key": {
     "a": {
-      "tag": "minecraft:logs"
+      "item": "minecraft:air"
     }
   },
   "result": {
-    "item": "minecraft:chest",
+    "id": "minecraft:chest",
     "count": 4
   }
 }

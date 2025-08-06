@@ -3802,6 +3802,14 @@
   "language_map": {
     "en_us": {}
   },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/fatalscraftingqol/FatalsQolCraftingMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/fatalscraftingqol/network/FatalsQolCraftingModVariables.java"
+    ]
+  },
   "foldersRoot": {
     "name": "~",
     "children": [
@@ -4253,9 +4261,9 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "neoforge-1.20.4",
+    "currentGenerator": "neoforge-1.20.6",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.fatalscraftingqol"
   },
-  "mcreatorVersion": 202500113416
+  "mcreatorVersion": 202500228610
 }

@@ -10,11 +10,11 @@
       "item": "minecraft:stick"
     },
     "b": {
-      "tag": "forge:stone"
+      "tag": "c:stones"
     }
   },
   "result": {
-    "item": "minecraft:lever",
+    "id": "minecraft:lever",
     "count": 1
   }
 }

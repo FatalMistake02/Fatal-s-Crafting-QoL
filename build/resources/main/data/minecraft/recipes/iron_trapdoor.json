@@ -11,7 +11,7 @@
     }
   },
   "result": {
-    "item": "minecraft:iron_trapdoor",
+    "id": "minecraft:iron_trapdoor",
     "count": 12
   }
 }

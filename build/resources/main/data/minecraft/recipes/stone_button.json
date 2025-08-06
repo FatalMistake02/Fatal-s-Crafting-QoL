@@ -7,7 +7,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:stone_button",
+    "id": "minecraft:stone_button",
     "count": 10
   }
 }

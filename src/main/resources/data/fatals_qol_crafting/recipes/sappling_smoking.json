@@ -6,5 +6,7 @@
   "ingredient": {
     "tag": "minecraft:saplings"
   },
-  "result": "minecraft:dead_bush"
+  "result": {
+    "id": "minecraft:dead_bush"
+  }
 }
