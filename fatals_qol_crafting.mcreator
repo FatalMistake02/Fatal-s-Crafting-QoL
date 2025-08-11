@@ -635,7 +635,7 @@
           "src/main/resources/data/minecraft/recipes/bamboo_button.json"
         ]
       },
-      "path": "~/Wood/Bamboo"
+      "path": "~/Wood/Chests/Bamboo"
     },
     {
       "name": "BambooFence",
@@ -648,7 +648,7 @@
           "src/main/resources/data/minecraft/recipes/bamboo_fence.json"
         ]
       },
-      "path": "~/Wood/Bamboo"
+      "path": "~/Wood/Chests/Bamboo"
     },
     {
       "name": "BambooPressurePLate",
@@ -661,7 +661,7 @@
           "src/main/resources/data/minecraft/recipes/bamboo_pressure_plate.json"
         ]
       },
-      "path": "~/Wood/Bamboo"
+      "path": "~/Wood/Chests/Bamboo"
     },
     {
       "name": "BambooStairs",
@@ -674,7 +674,7 @@
           "src/main/resources/data/minecraft/recipes/bamboo_stairs.json"
         ]
       },
-      "path": "~/Wood/Bamboo"
+      "path": "~/Wood/Chests/Bamboo"
     },
     {
       "name": "BambooTrapdoor",
@@ -687,7 +687,7 @@
           "src/main/resources/data/minecraft/recipes/bamboo_trapdoor.json"
         ]
       },
-      "path": "~/Wood/Bamboo"
+      "path": "~/Wood/Chests/Bamboo"
     },
     {
       "name": "CrimsonButton",
@@ -700,7 +700,7 @@
           "src/main/resources/data/minecraft/recipes/crimson_button.json"
         ]
       },
-      "path": "~/Wood/Crimson"
+      "path": "~/Wood/Chests/Crimson"
     },
     {
       "name": "CrimsonFence",
@@ -713,7 +713,7 @@
           "src/main/resources/data/minecraft/recipes/crimson_fence.json"
         ]
       },
-      "path": "~/Wood/Crimson"
+      "path": "~/Wood/Chests/Crimson"
     },
     {
       "name": "CrimsonPressurePlate",
@@ -726,7 +726,7 @@
           "src/main/resources/data/minecraft/recipes/crimson_pressure_plate.json"
         ]
       },
-      "path": "~/Wood/Crimson"
+      "path": "~/Wood/Chests/Crimson"
     },
     {
       "name": "CrimsonStairs",
@@ -739,7 +739,7 @@
           "src/main/resources/data/minecraft/recipes/crimson_stairs.json"
         ]
       },
-      "path": "~/Wood/Crimson"
+      "path": "~/Wood/Chests/Crimson"
     },
     {
       "name": "CrimsonTrapdoor",
@@ -752,7 +752,7 @@
           "src/main/resources/data/minecraft/recipes/crimson_trapdoor.json"
         ]
       },
-      "path": "~/Wood/Crimson"
+      "path": "~/Wood/Chests/Crimson"
     },
     {
       "name": "CrimsonHyphae",
@@ -765,7 +765,7 @@
           "src/main/resources/data/minecraft/recipes/crimson_hyphae.json"
         ]
       },
-      "path": "~/Wood/Crimson"
+      "path": "~/Wood/Chests/Crimson"
     },
     {
       "name": "WarpedButton",
@@ -1064,7 +1064,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipes/bamboo_planks_1.json"
         ]
       },
-      "path": "~/Wood/Bamboo"
+      "path": "~/Wood/Chests/Bamboo"
     },
     {
       "name": "BambooPlanks2",
@@ -1077,7 +1077,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipes/bamboo_planks_2.json"
         ]
       },
-      "path": "~/Wood/Bamboo"
+      "path": "~/Wood/Chests/Bamboo"
     },
     {
       "name": "CrimsonPlanks1",
@@ -1090,7 +1090,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipes/crimson_planks_1.json"
         ]
       },
-      "path": "~/Wood/Crimson"
+      "path": "~/Wood/Chests/Crimson"
     },
     {
       "name": "CrimsonPlanks2",
@@ -1103,7 +1103,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipes/crimson_planks_2.json"
         ]
       },
-      "path": "~/Wood/Crimson"
+      "path": "~/Wood/Chests/Crimson"
     },
     {
       "name": "WarpedPlanks1",
@@ -1142,7 +1142,7 @@
           "src/main/resources/data/minecraft/recipes/bamboo_mosaic_stairs.json"
         ]
       },
-      "path": "~/Wood/Bamboo"
+      "path": "~/Wood/Chests/Bamboo"
     },
     {
       "name": "BambooMosaic1",
@@ -1155,7 +1155,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipes/bamboo_mosaic_1.json"
         ]
       },
-      "path": "~/Wood/Bamboo"
+      "path": "~/Wood/Chests/Bamboo"
     },
     {
       "name": "StoneStairs",
@@ -1701,7 +1701,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipes/bamboo_mosaic_2.json"
         ]
       },
-      "path": "~/Wood/Bamboo"
+      "path": "~/Wood/Chests/Bamboo"
     },
     {
       "name": "Stone1",
@@ -3121,45 +3121,6 @@
       "path": "~/Wood/Chests"
     },
     {
-      "name": "Chest2",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chest_2",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/chest_2.json"
-        ]
-      },
-      "path": "~/Wood/Chests"
-    },
-    {
-      "name": "Chest3",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chest_3",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/chest_3.json"
-        ]
-      },
-      "path": "~/Wood/Chests"
-    },
-    {
-      "name": "Chest4",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chest_4",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/chest_4.json"
-        ]
-      },
-      "path": "~/Wood/Chests"
-    },
-    {
       "name": "CrimsonNylium",
       "type": "recipe",
       "compiles": true,
@@ -3197,145 +3158,6 @@
         ]
       },
       "path": "~/Misc/Wool"
-    },
-    {
-      "name": "RecipeRemover",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "recipe_disabler",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/procedures/RecipeRemoverProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Config"
-    },
-    {
-      "name": "Remover",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "remover",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/procedures/RemoverProcedure.java"
-        ],
-        "dependencies": []
-      },
-      "path": "~/Config"
-    },
-    {
-      "name": "Config",
-      "type": "gui",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "config",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/network/ConfigButtonMessage.java",
-          "src/main/java/net/mcreator/fatalscraftingqol/world/inventory/ConfigMenu.java",
-          "src/main/java/net/mcreator/fatalscraftingqol/client/gui/ConfigScreen.java"
-        ]
-      },
-      "path": "~/Config"
-    },
-    {
-      "name": "OpenConfigOnKeyReleased",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "open_config_on_key_released",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/procedures/OpenConfigOnKeyReleasedProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Config"
-    },
-    {
-      "name": "OpenConfig",
-      "type": "keybind",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "open_config",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/network/OpenConfigMessage.java"
-        ]
-      },
-      "path": "~/Config"
-    },
-    {
-      "name": "ToggleChainmailArmor",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "toggle_chainmail_armor",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/procedures/ToggleChainmailArmorProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Config/Chainmail Armor"
-    },
-    {
-      "name": "ChainmailEnabled",
-      "type": "procedure",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chainmail_enabled",
-      "metadata": {
-        "return_type": "logic",
-        "files": [
-          "src/main/java/net/mcreator/fatalscraftingqol/procedures/ChainmailEnabledProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      },
-      "path": "~/Config/Chainmail Armor"
     },
     {
       "name": "BlackDye",
@@ -3377,32 +3199,6 @@
       "path": "~/Functional Blocks/Dispensers"
     },
     {
-      "name": "DispenserWithStone2",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dispenser_with_stone_2",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/dispenser_with_deepslate.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Dispensers"
-    },
-    {
-      "name": "DispenserWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dispenser_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/dispenser_with_blackstone.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Dispensers"
-    },
-    {
       "name": "DropperWithStone",
       "type": "recipe",
       "compiles": true,
@@ -3411,32 +3207,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/fatals_qol_crafting/recipes/dropper_with_stone.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Dropper"
-    },
-    {
-      "name": "DropperWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dropper_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/dropper_with_deepslate.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Dropper"
-    },
-    {
-      "name": "DropperWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dropper_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/dropper_with_blackstone.json"
         ]
       },
       "path": "~/Functional Blocks/Dropper"
@@ -3481,32 +3251,6 @@
       "path": "~/Functional Blocks/Lever"
     },
     {
-      "name": "LeverWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "lever_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/lever_with_deepslate.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Lever"
-    },
-    {
-      "name": "LeverWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "lever_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/lever_with_blackstone.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Lever"
-    },
-    {
       "name": "ObserverWithStone",
       "type": "recipe",
       "compiles": true,
@@ -3515,32 +3259,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/fatals_qol_crafting/recipes/observer_with_stone.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Observer"
-    },
-    {
-      "name": "ObserverWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "observer_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/observer_with_deepslate.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Observer"
-    },
-    {
-      "name": "ObserverWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "observer_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/observer_with_blackstone.json"
         ]
       },
       "path": "~/Functional Blocks/Observer"
@@ -3559,32 +3277,6 @@
       "path": "~/Functional Blocks/Piston"
     },
     {
-      "name": "PistonWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "piston_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/piston_with_deepslate.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Piston"
-    },
-    {
-      "name": "PistonWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "piston_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/piston_with_blackstone.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Piston"
-    },
-    {
       "name": "StoneAxeWithStone",
       "type": "recipe",
       "compiles": true,
@@ -3595,33 +3287,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipes/stone_axe_with_stone.json"
         ]
       },
-      "path": "~/Weapons-Tools/Stone/Axe"
-    },
-    {
-      "name": "StoneAxeWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_axe_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/stone_axe_with_deepslate.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Axe"
-    },
-    {
-      "name": "StoneAxeWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_axe_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/stone_axe_with_blackstone.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Axe"
+      "path": "~/Weapons-Tools"
     },
     {
       "name": "StoneHoeWithStone",
@@ -3634,33 +3300,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipes/stone_hoe_with_stone.json"
         ]
       },
-      "path": "~/Weapons-Tools/Stone/Hoe"
-    },
-    {
-      "name": "StoneHoeWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_hoe_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/stone_hoe_with_deepslate.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Hoe"
-    },
-    {
-      "name": "StoneHoeWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_hoe_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/stone_hoe_with_blackstone.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Hoe"
+      "path": "~/Weapons-Tools"
     },
     {
       "name": "StonePickaxeWithStone",
@@ -3673,33 +3313,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipes/stone_pickaxe_with_stone.json"
         ]
       },
-      "path": "~/Weapons-Tools/Stone/Pickaxe"
-    },
-    {
-      "name": "StonePickaxeWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_pickaxe_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/stone_pickaxe_with_deepslate.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Pickaxe"
-    },
-    {
-      "name": "StonePickaxeWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_pickaxe_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/stone_pickaxe_with_blackstone.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Pickaxe"
+      "path": "~/Weapons-Tools"
     },
     {
       "name": "StoneShovelWithStone",
@@ -3712,33 +3326,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipes/stone_shovel_with_stone.json"
         ]
       },
-      "path": "~/Weapons-Tools/Stone/Shovel"
-    },
-    {
-      "name": "StoneShovelWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_shovel_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/stone_shovel_with_deepslate.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Shovel"
-    },
-    {
-      "name": "StoneShovelWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_shovel_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/stone_shovel_with_blackstone.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Shovel"
+      "path": "~/Weapons-Tools"
     },
     {
       "name": "StoneSwordWithStone",
@@ -3751,33 +3339,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipes/stone_sword_with_stone.json"
         ]
       },
-      "path": "~/Weapons-Tools/Stone/Sword"
-    },
-    {
-      "name": "StoneSwordWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_sword_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/stone_sword_with_deepslate.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Sword"
-    },
-    {
-      "name": "StoneSwordWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_sword_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/stone_sword_with_blackstone.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Sword"
+      "path": "~/Weapons-Tools"
     },
     {
       "name": "RootedDirt",
@@ -3936,14 +3498,21 @@
     }
   ],
   "sound_elements": [],
-  "tag_elements": {},
+  "tag_elements": {
+    "ITEMS:mod:stones": [
+      "Blocks.STONE#0",
+      "Blocks.STONE#1",
+      "Blocks.STONE#3",
+      "Blocks.STONE#5",
+      "Blocks.DEEPSLATE",
+      "Blocks.COBBLED_DEEPSLATE",
+      "Blocks.TUFF",
+      "Blocks.BLACKSTONE"
+    ]
+  },
   "tab_element_order": {},
   "language_map": {
-    "en_us": {
-      "gui.fatals_qol_crafting.config.label_enabled": "Enabled",
-      "gui.fatals_qol_crafting.config.button_chainmail_armor": "Chainmail Armor",
-      "key.fatals_qol_crafting.open_config": "Open Config"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
@@ -3984,24 +3553,25 @@
             "children": []
           },
           {
-            "name": "Pale Oak -1.21-",
-            "children": []
-          },
-          {
-            "name": "Bamboo",
-            "children": []
-          },
-          {
-            "name": "Crimson",
-            "children": []
-          },
-          {
             "name": "Warped",
             "children": []
           },
           {
             "name": "Chests",
-            "children": []
+            "children": [
+              {
+                "name": "Pale Oak -1.21-",
+                "children": []
+              },
+              {
+                "name": "Bamboo",
+                "children": []
+              },
+              {
+                "name": "Crimson",
+                "children": []
+              }
+            ]
           }
         ]
       },
@@ -4314,19 +3884,6 @@
         ]
       },
       {
-        "name": "Config",
-        "children": [
-          {
-            "name": "Chainmail Armor",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Recipe Unlocks",
-        "children": []
-      },
-      {
         "name": "Functional Blocks",
         "children": [
           {
@@ -4361,40 +3918,14 @@
       },
       {
         "name": "Weapons-Tools",
-        "children": [
-          {
-            "name": "Stone",
-            "children": [
-              {
-                "name": "Axe",
-                "children": []
-              },
-              {
-                "name": "Hoe",
-                "children": []
-              },
-              {
-                "name": "Pickaxe",
-                "children": []
-              },
-              {
-                "name": "Shovel",
-                "children": []
-              },
-              {
-                "name": "Sword",
-                "children": []
-              }
-            ]
-          }
-        ]
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "fatals_qol_crafting",
     "modName": "Fatal\u0027s QoL Crafting",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Changes some recipes and adds many new ones.",
     "author": "FatalMistake02",
     "websiteURL": "https://fatalmistake02.com",

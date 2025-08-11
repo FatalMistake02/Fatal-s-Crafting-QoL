@@ -17,8 +17,6 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
-import net.mcreator.fatalscraftingqol.init.FatalsQolCraftingModMenus;
-
 import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
@@ -39,7 +37,6 @@ public class FatalsQolCraftingMod {
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
-		FatalsQolCraftingModMenus.REGISTRY.register(bus);
 		// Start of user code block mod init
 		// End of user code block mod init
 	}

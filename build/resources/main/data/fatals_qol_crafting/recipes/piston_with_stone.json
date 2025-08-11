@@ -11,7 +11,7 @@
       "tag": "minecraft:planks"
     },
     "b": {
-      "tag": "minecraft:stone"
+      "tag": "fatals_qol_crafting:stones"
     },
     "c": {
       "item": "minecraft:iron_ingot"
