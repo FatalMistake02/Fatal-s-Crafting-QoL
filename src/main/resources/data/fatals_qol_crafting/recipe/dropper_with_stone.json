@@ -8,7 +8,7 @@
   ],
   "key": {
     "a": {
-      "tag": "c:stones"
+      "tag": "fatals_qol_crafting:stones"
     },
     "b": {
       "item": "minecraft:redstone"

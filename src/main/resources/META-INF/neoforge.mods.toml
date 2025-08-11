@@ -4,7 +4,7 @@ license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="fatals_qol_crafting"
-version="1.0.0"
+version="1.1.0"
 displayName="Fatal's QoL Crafting"
 displayURL="https://fatalmistake02.com"
 logoFile="logo.png"

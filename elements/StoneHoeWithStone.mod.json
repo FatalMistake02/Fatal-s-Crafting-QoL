@@ -12,10 +12,10 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Blocks.STONE"
+        "value": "TAG:mod:stones"
       },
       {
-        "value": "Blocks.STONE"
+        "value": "TAG:mod:stones"
       },
       {
         "value": ""

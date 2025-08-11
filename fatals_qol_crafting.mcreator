@@ -1168,7 +1168,7 @@
           "src/main/resources/data/minecraft/recipe/stone_stairs.json"
         ]
       },
-      "path": "~/Stone/Stone"
+      "path": "~/Stone"
     },
     {
       "name": "CobblestoneStairs",
@@ -1181,7 +1181,7 @@
           "src/main/resources/data/minecraft/recipe/cobblestone_stairs.json"
         ]
       },
-      "path": "~/Stone/Cobblestone"
+      "path": "~/Stone"
     },
     {
       "name": "MossyCobblestoneStairs",
@@ -1194,7 +1194,7 @@
           "src/main/resources/data/minecraft/recipe/mossy_cobblestone_stairs.json"
         ]
       },
-      "path": "~/Stone/MossyCobblestone"
+      "path": "~/Stone"
     },
     {
       "name": "StoneBrickStairs",
@@ -1207,7 +1207,7 @@
           "src/main/resources/data/minecraft/recipe/stone_brick_stairs.json"
         ]
       },
-      "path": "~/Stone/Stone Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "MossyStoneBrickStairs",
@@ -1220,7 +1220,7 @@
           "src/main/resources/data/minecraft/recipe/mossy_stone_brick_stairs.json"
         ]
       },
-      "path": "~/Stone/Mossy Stone Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "GraniteStairs",
@@ -1233,7 +1233,7 @@
           "src/main/resources/data/minecraft/recipe/granite_stairs.json"
         ]
       },
-      "path": "~/Stone/Granite"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedGraniteStairs",
@@ -1246,7 +1246,7 @@
           "src/main/resources/data/minecraft/recipe/polished_granite_stairs.json"
         ]
       },
-      "path": "~/Stone/Granite"
+      "path": "~/Stone"
     },
     {
       "name": "DioriteStairs",
@@ -1259,7 +1259,7 @@
           "src/main/resources/data/minecraft/recipe/diorite_stairs.json"
         ]
       },
-      "path": "~/Stone/Diorite"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedDioriteStairs",
@@ -1272,7 +1272,7 @@
           "src/main/resources/data/minecraft/recipe/polished_diorite_stairs.json"
         ]
       },
-      "path": "~/Stone/Diorite"
+      "path": "~/Stone"
     },
     {
       "name": "AndesiteStairs",
@@ -1285,7 +1285,7 @@
           "src/main/resources/data/minecraft/recipe/andesite_stairs.json"
         ]
       },
-      "path": "~/Stone/Andesite"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedAndesiteStairs",
@@ -1298,7 +1298,7 @@
           "src/main/resources/data/minecraft/recipe/polished_andesite_stairs.json"
         ]
       },
-      "path": "~/Stone/Andesite"
+      "path": "~/Stone"
     },
     {
       "name": "CobbledDeepslateStairs",
@@ -1311,7 +1311,7 @@
           "src/main/resources/data/minecraft/recipe/cobbled_deepslate_stairs.json"
         ]
       },
-      "path": "~/Stone/Deepslate/Cobbled Deepslate"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedDeepslateStairs",
@@ -1324,7 +1324,7 @@
           "src/main/resources/data/minecraft/recipe/polished_deepslate_stairs.json"
         ]
       },
-      "path": "~/Stone/Deepslate/Polished Deepslate"
+      "path": "~/Stone"
     },
     {
       "name": "DeepslateBrickStairs",
@@ -1337,7 +1337,7 @@
           "src/main/resources/data/minecraft/recipe/deepslate_brick_stairs.json"
         ]
       },
-      "path": "~/Stone/Deepslate/Deepslate Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "DeepslateTileStairs",
@@ -1350,7 +1350,7 @@
           "src/main/resources/data/minecraft/recipe/deepslate_tile_stairs.json"
         ]
       },
-      "path": "~/Stone/Deepslate/Deepslate Tiles"
+      "path": "~/Stone"
     },
     {
       "name": "BrickStairs",
@@ -1363,7 +1363,7 @@
           "src/main/resources/data/minecraft/recipe/brick_stairs.json"
         ]
       },
-      "path": "~/Bricks/Bricks"
+      "path": "~/Bricks"
     },
     {
       "name": "MudBrickStairs",
@@ -1376,7 +1376,7 @@
           "src/main/resources/data/minecraft/recipe/mud_brick_stairs.json"
         ]
       },
-      "path": "~/Bricks/Mud Bricks"
+      "path": "~/Bricks"
     },
     {
       "name": "SandstoneStairs",
@@ -1389,7 +1389,7 @@
           "src/main/resources/data/minecraft/recipe/sandstone_stairs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Sandstone/Sanstone"
+      "path": "~/Stone"
     },
     {
       "name": "SmoothSandstoneStairs",
@@ -1402,7 +1402,7 @@
           "src/main/resources/data/minecraft/recipe/smooth_sandstone_stairs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Sandstone/Smooth Sandstone"
+      "path": "~/Stone"
     },
     {
       "name": "RedSandstoneStairs",
@@ -1415,7 +1415,7 @@
           "src/main/resources/data/minecraft/recipe/red_sandstone_stairs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Red Sandstone/RedSandstone"
+      "path": "~/Stone"
     },
     {
       "name": "SmoothRedSandstoneStairs",
@@ -1428,7 +1428,7 @@
           "src/main/resources/data/minecraft/recipe/smooth_red_sandstone_stairs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Red Sandstone/Smooth Red Sandstone"
+      "path": "~/Stone"
     },
     {
       "name": "PrismarineStairs",
@@ -1441,7 +1441,7 @@
           "src/main/resources/data/minecraft/recipe/prismarine_stairs.json"
         ]
       },
-      "path": "~/Stone/Prismarine/Prismarine"
+      "path": "~/Stone"
     },
     {
       "name": "PrismarineBrickStairs",
@@ -1454,7 +1454,7 @@
           "src/main/resources/data/minecraft/recipe/prismarine_brick_stairs.json"
         ]
       },
-      "path": "~/Stone/Prismarine/Prismarine Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "DarkPrismarineStairs",
@@ -1467,7 +1467,7 @@
           "src/main/resources/data/minecraft/recipe/dark_prismarine_stairs.json"
         ]
       },
-      "path": "~/Stone/Prismarine/Dark Prismarine"
+      "path": "~/Stone"
     },
     {
       "name": "NetherBrickStairs",
@@ -1480,7 +1480,7 @@
           "src/main/resources/data/minecraft/recipe/nether_brick_stairs.json"
         ]
       },
-      "path": "~/Bricks/Nether Bricks/Nether Bricks"
+      "path": "~/Bricks"
     },
     {
       "name": "RedNetherBrickStairs",
@@ -1493,7 +1493,7 @@
           "src/main/resources/data/minecraft/recipe/red_nether_brick_stairs.json"
         ]
       },
-      "path": "~/Bricks/Nether Bricks/Red Nether Bricks"
+      "path": "~/Bricks"
     },
     {
       "name": "BlackstoneStairs",
@@ -1506,7 +1506,7 @@
           "src/main/resources/data/minecraft/recipe/blackstone_stairs.json"
         ]
       },
-      "path": "~/Stone/Blackstone/Blackstone"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedBlackstoneStairs",
@@ -1519,7 +1519,7 @@
           "src/main/resources/data/minecraft/recipe/polished_blackstone_stairs.json"
         ]
       },
-      "path": "~/Stone/Blackstone/Polished Blackstone"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedBlackstoneBrickStairs",
@@ -1532,7 +1532,7 @@
           "src/main/resources/data/minecraft/recipe/polished_blackstone_brick_stairs.json"
         ]
       },
-      "path": "~/Stone/Blackstone/Polished Blackstone Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "EndStoneBrickStairs",
@@ -1545,7 +1545,7 @@
           "src/main/resources/data/minecraft/recipe/end_stone_brick_stairs.json"
         ]
       },
-      "path": "~/Stone/End Stone Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "PurpurStairs",
@@ -1558,7 +1558,7 @@
           "src/main/resources/data/minecraft/recipe/purpur_stairs.json"
         ]
       },
-      "path": "~/Misc/Purpur"
+      "path": "~/Misc"
     },
     {
       "name": "QuartzStairs",
@@ -1571,7 +1571,7 @@
           "src/main/resources/data/minecraft/recipe/quartz_stairs.json"
         ]
       },
-      "path": "~/Misc/Quartz/Quartz"
+      "path": "~/Misc"
     },
     {
       "name": "SmoothQuartzStairs",
@@ -1584,7 +1584,7 @@
           "src/main/resources/data/minecraft/recipe/smooth_quartz_stairs.json"
         ]
       },
-      "path": "~/Misc/Quartz/Smooth Quartz"
+      "path": "~/Misc"
     },
     {
       "name": "CutCopperStairs",
@@ -1597,7 +1597,7 @@
           "src/main/resources/data/minecraft/recipe/cut_copper_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Cut Copper"
+      "path": "~/Metals"
     },
     {
       "name": "WaxedCutCopperStairs",
@@ -1610,7 +1610,7 @@
           "src/main/resources/data/minecraft/recipe/waxed_cut_copper_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Cut Copper/Waxed"
+      "path": "~/Metals"
     },
     {
       "name": "ExposedCutCopperStairs",
@@ -1623,7 +1623,7 @@
           "src/main/resources/data/minecraft/recipe/exposed_cut_copper_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Exposed Cut Copper"
+      "path": "~/Metals"
     },
     {
       "name": "WaxedExposedCutCopperStairs",
@@ -1636,7 +1636,7 @@
           "src/main/resources/data/minecraft/recipe/waxed_exposed_cut_copper_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Exposed Cut Copper/Waxed"
+      "path": "~/Metals"
     },
     {
       "name": "WeatheredCutCopperStairs",
@@ -1649,7 +1649,7 @@
           "src/main/resources/data/minecraft/recipe/weathered_cut_copper_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Weathered Cut Copper"
+      "path": "~/Metals"
     },
     {
       "name": "WaxedWeatheredCutCopperStairs",
@@ -1662,7 +1662,7 @@
           "src/main/resources/data/minecraft/recipe/waxed_weathered_cut_copper_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Weathered Cut Copper/Waxed"
+      "path": "~/Metals"
     },
     {
       "name": "OxidizedCutCopperStairs",
@@ -1675,7 +1675,7 @@
           "src/main/resources/data/minecraft/recipe/oxidized_cut_copper_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/OxidizedCut Copper"
+      "path": "~/Metals"
     },
     {
       "name": "WaxedOxidizedCutCopperStairs",
@@ -1688,7 +1688,7 @@
           "src/main/resources/data/minecraft/recipe/waxed_oxidized_cut_copper_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/OxidizedCut Copper/Waxed"
+      "path": "~/Metals"
     },
     {
       "name": "BambooMosaic2",
@@ -1714,7 +1714,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/stone_1.json"
         ]
       },
-      "path": "~/Stone/Stone"
+      "path": "~/Stone"
     },
     {
       "name": "Stone2",
@@ -1727,7 +1727,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/stone_2.json"
         ]
       },
-      "path": "~/Stone/Stone"
+      "path": "~/Stone"
     },
     {
       "name": "Cobblestone1",
@@ -1740,7 +1740,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/cobblestone_1.json"
         ]
       },
-      "path": "~/Stone/Cobblestone"
+      "path": "~/Stone"
     },
     {
       "name": "Cobblestone2",
@@ -1753,7 +1753,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/cobblestone_2.json"
         ]
       },
-      "path": "~/Stone/Cobblestone"
+      "path": "~/Stone"
     },
     {
       "name": "MossyCobbletone1",
@@ -1766,7 +1766,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/mossy_cobbletone_1.json"
         ]
       },
-      "path": "~/Stone/MossyCobblestone"
+      "path": "~/Stone"
     },
     {
       "name": "MossyCobblestone2",
@@ -1779,7 +1779,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/mossy_cobblestone_2.json"
         ]
       },
-      "path": "~/Stone/MossyCobblestone"
+      "path": "~/Stone"
     },
     {
       "name": "SmoothStone1",
@@ -1792,7 +1792,7 @@
           "src/main/resources/data/minecraft/recipe/smooth_stone_1.json"
         ]
       },
-      "path": "~/Stone/SmoothStone"
+      "path": "~/Stone"
     },
     {
       "name": "StoneBricks1",
@@ -1805,7 +1805,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/stone_bricks_1.json"
         ]
       },
-      "path": "~/Stone/Stone Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "StoneBricks2",
@@ -1818,7 +1818,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/stone_bricks_2.json"
         ]
       },
-      "path": "~/Stone/Stone Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "MossyStoneBricks1",
@@ -1831,7 +1831,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/mossy_stone_bricks_1.json"
         ]
       },
-      "path": "~/Stone/Mossy Stone Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "MossyStoneBricks2",
@@ -1844,7 +1844,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/mossy_stone_bricks_2.json"
         ]
       },
-      "path": "~/Stone/Mossy Stone Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "Granite1",
@@ -1857,7 +1857,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/granite_1.json"
         ]
       },
-      "path": "~/Stone/Granite"
+      "path": "~/Stone"
     },
     {
       "name": "Granite2",
@@ -1870,7 +1870,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/granite_2.json"
         ]
       },
-      "path": "~/Stone/Granite"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedGranite1",
@@ -1883,7 +1883,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_granite_1.json"
         ]
       },
-      "path": "~/Stone/Granite"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedGranite2",
@@ -1896,7 +1896,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_granite_2.json"
         ]
       },
-      "path": "~/Stone/Granite"
+      "path": "~/Stone"
     },
     {
       "name": "Diorite1",
@@ -1909,7 +1909,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/diorite_1.json"
         ]
       },
-      "path": "~/Stone/Diorite"
+      "path": "~/Stone"
     },
     {
       "name": "Diorite2",
@@ -1922,7 +1922,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/diorite_2.json"
         ]
       },
-      "path": "~/Stone/Diorite"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedDiorite1",
@@ -1935,7 +1935,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_diorite_1.json"
         ]
       },
-      "path": "~/Stone/Diorite"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedDiorite2",
@@ -1948,7 +1948,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_diorite_2.json"
         ]
       },
-      "path": "~/Stone/Diorite"
+      "path": "~/Stone"
     },
     {
       "name": "Andesite1",
@@ -1961,7 +1961,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/andesite_1.json"
         ]
       },
-      "path": "~/Stone/Andesite"
+      "path": "~/Stone"
     },
     {
       "name": "Andesite2",
@@ -1974,7 +1974,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/andesite_2.json"
         ]
       },
-      "path": "~/Stone/Andesite"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedAndesite1",
@@ -1987,7 +1987,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_andesite_1.json"
         ]
       },
-      "path": "~/Stone/Andesite"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedAndesite2",
@@ -2000,7 +2000,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_andesite_2.json"
         ]
       },
-      "path": "~/Stone/Andesite"
+      "path": "~/Stone"
     },
     {
       "name": "CobbledDeepslate1",
@@ -2013,7 +2013,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/cobbled_deepslate_1.json"
         ]
       },
-      "path": "~/Stone/Deepslate/Cobbled Deepslate"
+      "path": "~/Stone"
     },
     {
       "name": "CobbledDeepslate2",
@@ -2026,7 +2026,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/cobbled_deepslate_2.json"
         ]
       },
-      "path": "~/Stone/Deepslate/Cobbled Deepslate"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedDeepslate1",
@@ -2039,7 +2039,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_deepslate_1.json"
         ]
       },
-      "path": "~/Stone/Deepslate/Polished Deepslate"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedDeepslate2",
@@ -2052,7 +2052,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_deepslate_2.json"
         ]
       },
-      "path": "~/Stone/Deepslate/Polished Deepslate"
+      "path": "~/Stone"
     },
     {
       "name": "DeepslateBricks1",
@@ -2065,7 +2065,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/deepslate_bricks_1.json"
         ]
       },
-      "path": "~/Stone/Deepslate/Deepslate Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "DeepslateBricks2",
@@ -2078,7 +2078,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/deepslate_bricks_2.json"
         ]
       },
-      "path": "~/Stone/Deepslate/Deepslate Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "DeepslateTiles1",
@@ -2091,7 +2091,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/deepslate_tiles_1.json"
         ]
       },
-      "path": "~/Stone/Deepslate/Deepslate Tiles"
+      "path": "~/Stone"
     },
     {
       "name": "DeepslateTiles2",
@@ -2104,7 +2104,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/deepslate_tiles_2.json"
         ]
       },
-      "path": "~/Stone/Deepslate/Deepslate Tiles"
+      "path": "~/Stone"
     },
     {
       "name": "BricksFromSlabs",
@@ -2117,7 +2117,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/bricks_from_slabs.json"
         ]
       },
-      "path": "~/Bricks/Bricks"
+      "path": "~/Bricks"
     },
     {
       "name": "BricksFromStairs",
@@ -2130,7 +2130,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/bricks_from_stairs.json"
         ]
       },
-      "path": "~/Bricks/Bricks"
+      "path": "~/Bricks"
     },
     {
       "name": "MudBrickFromSlabs",
@@ -2143,7 +2143,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/mud_brick_from_slabs.json"
         ]
       },
-      "path": "~/Bricks/Mud Bricks"
+      "path": "~/Bricks"
     },
     {
       "name": "MudBricksFromStairs",
@@ -2156,7 +2156,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/mud_bricks_from_stairs.json"
         ]
       },
-      "path": "~/Bricks/Mud Bricks"
+      "path": "~/Bricks"
     },
     {
       "name": "SandstoneFromStairs",
@@ -2169,7 +2169,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/sandstone_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Sandstone/Sanstone"
+      "path": "~/Stone"
     },
     {
       "name": "SmoothSandstoneFromSlabs",
@@ -2182,7 +2182,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/smooth_sandstone_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Sandstone/Smooth Sandstone"
+      "path": "~/Stone"
     },
     {
       "name": "SmoothSandstoneFromStairs",
@@ -2195,7 +2195,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/smooth_sandstone_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Sandstone/Smooth Sandstone"
+      "path": "~/Stone"
     },
     {
       "name": "CutSandstoneFromSlabs",
@@ -2208,7 +2208,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/cut_sandstone_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Sandstone/Cut Sandstone"
+      "path": "~/Stone"
     },
     {
       "name": "SandstoneFromSlabs",
@@ -2221,7 +2221,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/sandstone_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Sandstone/Sanstone"
+      "path": "~/Stone"
     },
     {
       "name": "RedSandstoneFromSlabs",
@@ -2234,7 +2234,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/red_sandstone_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Red Sandstone/RedSandstone"
+      "path": "~/Stone"
     },
     {
       "name": "RedSandstoneFromStairs",
@@ -2247,7 +2247,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/red_sandstone_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Red Sandstone/RedSandstone"
+      "path": "~/Stone"
     },
     {
       "name": "SmoothRedSandstoneFromSlabs",
@@ -2260,7 +2260,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/smooth_red_sandstone_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Red Sandstone/Smooth Red Sandstone"
+      "path": "~/Stone"
     },
     {
       "name": "SmoothRedSandstoneFromStairs",
@@ -2273,7 +2273,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/smooth_red_sandstone_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Red Sandstone/Smooth Red Sandstone"
+      "path": "~/Stone"
     },
     {
       "name": "CutRedSandstoneFromSlabs",
@@ -2286,7 +2286,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/cut_red_sandstone_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Sandstone/Red Sandstone/Cut Red Sandstone"
+      "path": "~/Stone"
     },
     {
       "name": "PrismarineFromSlabs",
@@ -2299,7 +2299,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/prismarine_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Prismarine/Prismarine"
+      "path": "~/Stone"
     },
     {
       "name": "PrismarineFromStairs",
@@ -2312,7 +2312,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/prismarine_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Prismarine/Prismarine"
+      "path": "~/Stone"
     },
     {
       "name": "PrismarineBricksFromSlabs",
@@ -2325,7 +2325,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/prismarine_bricks_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Prismarine/Prismarine Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "PrismarineBricksFromStairs",
@@ -2338,7 +2338,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/prismarine_bricks_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Prismarine/Prismarine Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "DarkPrismarineFromSlabs",
@@ -2351,7 +2351,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/dark_prismarine_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Prismarine/Dark Prismarine"
+      "path": "~/Stone"
     },
     {
       "name": "DarkPrismarineFromStairs",
@@ -2364,7 +2364,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/dark_prismarine_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Prismarine/Dark Prismarine"
+      "path": "~/Stone"
     },
     {
       "name": "NetherBricksFromSlabs",
@@ -2377,7 +2377,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/nether_bricks_from_slabs.json"
         ]
       },
-      "path": "~/Bricks/Nether Bricks/Nether Bricks"
+      "path": "~/Bricks"
     },
     {
       "name": "NetherBricksFromStairs",
@@ -2390,7 +2390,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/nether_bricks_from_stairs.json"
         ]
       },
-      "path": "~/Bricks/Nether Bricks/Nether Bricks"
+      "path": "~/Bricks"
     },
     {
       "name": "RedNetherBricksFromSlabs",
@@ -2403,7 +2403,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/red_nether_bricks_from_slabs.json"
         ]
       },
-      "path": "~/Bricks/Nether Bricks/Red Nether Bricks"
+      "path": "~/Bricks"
     },
     {
       "name": "RedNetherBricksFromStairs",
@@ -2416,7 +2416,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/red_nether_bricks_from_stairs.json"
         ]
       },
-      "path": "~/Bricks/Nether Bricks/Red Nether Bricks"
+      "path": "~/Bricks"
     },
     {
       "name": "BlackstoneFromSlabs",
@@ -2429,7 +2429,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/blackstone_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Blackstone/Blackstone"
+      "path": "~/Stone"
     },
     {
       "name": "BlackstoneFromStairs",
@@ -2442,7 +2442,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/blackstone_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Blackstone/Blackstone"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedBlackstoneFromSlabs",
@@ -2455,7 +2455,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_blackstone_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Blackstone/Polished Blackstone"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedBlackstoneFromStairs",
@@ -2468,7 +2468,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_blackstone_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Blackstone/Polished Blackstone"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedBlackstoneBricksFromSlabs",
@@ -2481,7 +2481,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_blackstone_bricks_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Blackstone/Polished Blackstone Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedBlackstoneBricksFromStairs",
@@ -2494,7 +2494,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_blackstone_bricks_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Blackstone/Polished Blackstone Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "EndStoneBricksFromSlabs",
@@ -2507,7 +2507,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/end_stone_bricks_from_slabs.json"
         ]
       },
-      "path": "~/Stone/End Stone Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "EndStoneBricksFromStairs",
@@ -2520,7 +2520,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/end_stone_bricks_from_stairs.json"
         ]
       },
-      "path": "~/Stone/End Stone Bricks"
+      "path": "~/Stone"
     },
     {
       "name": "PurpurFromSlabs",
@@ -2533,7 +2533,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/purpur_from_slabs.json"
         ]
       },
-      "path": "~/Misc/Purpur"
+      "path": "~/Misc"
     },
     {
       "name": "PurpurFromStairs",
@@ -2546,7 +2546,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/purpur_from_stairs.json"
         ]
       },
-      "path": "~/Misc/Purpur"
+      "path": "~/Misc"
     },
     {
       "name": "QuartzFromSlabs",
@@ -2559,7 +2559,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/quartz_from_slabs.json"
         ]
       },
-      "path": "~/Misc/Quartz/Quartz"
+      "path": "~/Misc"
     },
     {
       "name": "QuartzFromStairs",
@@ -2572,7 +2572,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/quartz_from_stairs.json"
         ]
       },
-      "path": "~/Misc/Quartz/Quartz"
+      "path": "~/Misc"
     },
     {
       "name": "SmoothQuartzFromSlabs",
@@ -2585,7 +2585,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/smooth_quartz_from_slabs.json"
         ]
       },
-      "path": "~/Misc/Quartz/Smooth Quartz"
+      "path": "~/Misc"
     },
     {
       "name": "SmoothQuartzFromStairs",
@@ -2598,7 +2598,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/smooth_quartz_from_stairs.json"
         ]
       },
-      "path": "~/Misc/Quartz/Smooth Quartz"
+      "path": "~/Misc"
     },
     {
       "name": "CutCopperFromSlabs",
@@ -2611,7 +2611,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/cut_copper_from_slabs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Cut Copper"
+      "path": "~/Metals"
     },
     {
       "name": "CutCopperFromStairs",
@@ -2624,7 +2624,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/cut_copper_from_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Cut Copper"
+      "path": "~/Metals"
     },
     {
       "name": "WaxedCutCopperFromSlabs",
@@ -2637,7 +2637,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/waxed_cut_copper_from_slabs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Cut Copper/Waxed"
+      "path": "~/Metals"
     },
     {
       "name": "WaxedCutCopperFromStairs",
@@ -2650,7 +2650,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/waxed_cut_copper_from_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Cut Copper/Waxed"
+      "path": "~/Metals"
     },
     {
       "name": "ExposedCutCopperFromSlabs",
@@ -2663,7 +2663,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/exposed_cut_copper_from_slabs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Exposed Cut Copper"
+      "path": "~/Metals"
     },
     {
       "name": "ExposedCutCopperFromStairs",
@@ -2676,7 +2676,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/exposed_cut_copper_from_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Exposed Cut Copper"
+      "path": "~/Metals"
     },
     {
       "name": "WaxedExposedCutCopperFromSlabs",
@@ -2689,7 +2689,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/waxed_exposed_cut_copper_from_slabs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Exposed Cut Copper/Waxed"
+      "path": "~/Metals"
     },
     {
       "name": "WaxedExposedCutCopperFromStairs",
@@ -2702,7 +2702,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/waxed_exposed_cut_copper_from_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Exposed Cut Copper/Waxed"
+      "path": "~/Metals"
     },
     {
       "name": "WeatheredCutCopperFromSlabs",
@@ -2715,7 +2715,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/weathered_cut_copper_from_slabs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Weathered Cut Copper"
+      "path": "~/Metals"
     },
     {
       "name": "WeatheredCutCopperFromStairs",
@@ -2728,7 +2728,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/weathered_cut_copper_from_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Weathered Cut Copper"
+      "path": "~/Metals"
     },
     {
       "name": "WaxedWeatheredCutCopperFromSlabs",
@@ -2741,7 +2741,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/waxed_weathered_cut_copper_from_slabs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Weathered Cut Copper/Waxed"
+      "path": "~/Metals"
     },
     {
       "name": "WaxedWeatheredCutCopperFromStairs",
@@ -2754,7 +2754,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/waxed_weathered_cut_copper_from_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/Weathered Cut Copper/Waxed"
+      "path": "~/Metals"
     },
     {
       "name": "OxidizedCutCopperFromSlabs",
@@ -2767,7 +2767,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/oxidized_cut_copper_from_slabs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/OxidizedCut Copper"
+      "path": "~/Metals"
     },
     {
       "name": "OxidizedCutCopperFromStairss",
@@ -2780,7 +2780,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/oxidized_cut_copper_from_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/OxidizedCut Copper"
+      "path": "~/Metals"
     },
     {
       "name": "WaxedOxidizedCutCopperFromSlabs",
@@ -2793,7 +2793,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/waxed_oxidized_cut_copper_from_slabs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/OxidizedCut Copper/Waxed"
+      "path": "~/Metals"
     },
     {
       "name": "WaxedOxidizedCutCopperFromStairs",
@@ -2806,7 +2806,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/waxed_oxidized_cut_copper_from_stairs.json"
         ]
       },
-      "path": "~/Metals/Copper/Cut Copper/OxidizedCut Copper/Waxed"
+      "path": "~/Metals"
     },
     {
       "name": "PolishedBlackstoneButton",
@@ -2819,7 +2819,7 @@
           "src/main/resources/data/minecraft/recipe/polished_blackstone_button.json"
         ]
       },
-      "path": "~/Stone/Blackstone/Polished Blackstone"
+      "path": "~/Stone"
     },
     {
       "name": "StoneButton1",
@@ -2832,7 +2832,7 @@
           "src/main/resources/data/minecraft/recipe/stone_button.json"
         ]
       },
-      "path": "~/Stone/Stone"
+      "path": "~/Stone"
     },
     {
       "name": "IronTrapdoor",
@@ -2845,7 +2845,7 @@
           "src/main/resources/data/minecraft/recipe/iron_trapdoor.json"
         ]
       },
-      "path": "~/Metals/Iron"
+      "path": "~/Metals"
     },
     {
       "name": "PolishedBlackstonePressurePlate",
@@ -2858,7 +2858,7 @@
           "src/main/resources/data/minecraft/recipe/polished_blackstone_pressure_plate.json"
         ]
       },
-      "path": "~/Stone/Blackstone/Polished Blackstone"
+      "path": "~/Stone"
     },
     {
       "name": "StonePressurePlate",
@@ -2871,7 +2871,7 @@
           "src/main/resources/data/minecraft/recipe/stone_pressure_plate.json"
         ]
       },
-      "path": "~/Stone/Stone"
+      "path": "~/Stone"
     },
     {
       "name": "HeavyWeightedPressurePlate",
@@ -2884,7 +2884,7 @@
           "src/main/resources/data/minecraft/recipe/heavy_weighted_pressure_plate.json"
         ]
       },
-      "path": "~/Metals/Iron"
+      "path": "~/Metals"
     },
     {
       "name": "LightWeightedPressurePlate",
@@ -2897,7 +2897,7 @@
           "src/main/resources/data/minecraft/recipe/light_weighted_pressure_plate.json"
         ]
       },
-      "path": "~/Metals/Gold"
+      "path": "~/Metals"
     },
     {
       "name": "RawCopperBlockSmelting",
@@ -2910,7 +2910,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/raw_copper_block_smelting.json"
         ]
       },
-      "path": "~/Metals/Copper"
+      "path": "~/Metals"
     },
     {
       "name": "RawIronBlockSmelting",
@@ -2923,7 +2923,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/raw_iron_block_smelting.json"
         ]
       },
-      "path": "~/Metals/Iron"
+      "path": "~/Metals"
     },
     {
       "name": "RawGoldBlockSmelting",
@@ -2936,7 +2936,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/raw_gold_block_smelting.json"
         ]
       },
-      "path": "~/Metals/Gold"
+      "path": "~/Metals"
     },
     {
       "name": "RawCopperBlockBlasting",
@@ -2949,7 +2949,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/raw_copper_block_blasting.json"
         ]
       },
-      "path": "~/Metals/Copper"
+      "path": "~/Metals"
     },
     {
       "name": "RawIronBlockBlasting",
@@ -2962,7 +2962,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/raw_iron_block_blasting.json"
         ]
       },
-      "path": "~/Metals/Iron"
+      "path": "~/Metals"
     },
     {
       "name": "RawGoldBlockBlasting",
@@ -2975,7 +2975,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/raw_gold_block_blasting.json"
         ]
       },
-      "path": "~/Metals/Gold"
+      "path": "~/Metals"
     },
     {
       "name": "Dispenser",
@@ -2988,7 +2988,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/dispenser.json"
         ]
       },
-      "path": "~/Functional Blocks/Dispensers"
+      "path": "~/Functional Blocks"
     },
     {
       "name": "NetherWart",
@@ -3001,7 +3001,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/nether_wart.json"
         ]
       },
-      "path": "~/Misc/Warts"
+      "path": "~/Misc"
     },
     {
       "name": "ChainmailHelmet",
@@ -3014,7 +3014,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/chainmail_helmet.json"
         ]
       },
-      "path": "~/Metals/Iron/Chainmail"
+      "path": "~/Metals"
     },
     {
       "name": "ChainmailChestplate",
@@ -3027,7 +3027,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/chainmail_chestplate.json"
         ]
       },
-      "path": "~/Metals/Iron/Chainmail"
+      "path": "~/Metals"
     },
     {
       "name": "ChainmailLeggings",
@@ -3040,7 +3040,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/chainmail_leggings.json"
         ]
       },
-      "path": "~/Metals/Iron/Chainmail"
+      "path": "~/Metals"
     },
     {
       "name": "ChainmailBoots",
@@ -3053,7 +3053,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/chainmail_boots.json"
         ]
       },
-      "path": "~/Metals/Iron/Chainmail"
+      "path": "~/Metals"
     },
     {
       "name": "Cobwebs",
@@ -3066,7 +3066,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/cobweb.json"
         ]
       },
-      "path": "~/Misc/Cobwebs"
+      "path": "~/Misc"
     },
     {
       "name": "NetherQuartz",
@@ -3079,7 +3079,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/nether_quartz.json"
         ]
       },
-      "path": "~/Misc/Quartz"
+      "path": "~/Misc"
     },
     {
       "name": "Clay",
@@ -3092,7 +3092,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/clay.json"
         ]
       },
-      "path": "~/Misc/Clay"
+      "path": "~/Misc"
     },
     {
       "name": "SapplingSmoking",
@@ -3105,59 +3105,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/sappling_smoking.json"
         ]
       },
-      "path": "~/Misc/DeadBush"
-    },
-    {
-      "name": "Chest",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chest",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/chest_1.json"
-        ]
-      },
-      "path": "~/Wood/Chests"
-    },
-    {
-      "name": "Chest2",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chest_2",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/chest_2.json"
-        ]
-      },
-      "path": "~/Wood/Chests"
-    },
-    {
-      "name": "Chest3",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chest_3",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/chest_3.json"
-        ]
-      },
-      "path": "~/Wood/Chests"
-    },
-    {
-      "name": "Chest4",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chest_4",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/chest_4.json"
-        ]
-      },
-      "path": "~/Wood/Chests"
+      "path": "~/Misc"
     },
     {
       "name": "CrimsonNylium",
@@ -3170,7 +3118,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/crimson_nylium.json"
         ]
       },
-      "path": "~/Misc/Nylium/Crimson"
+      "path": "~/Misc"
     },
     {
       "name": "WarpedNylium",
@@ -3183,7 +3131,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/warped_nylium.json"
         ]
       },
-      "path": "~/Misc/Nylium/Warped"
+      "path": "~/Misc"
     },
     {
       "name": "String",
@@ -3196,7 +3144,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/string.json"
         ]
       },
-      "path": "~/Misc/Wool"
+      "path": "~/Misc"
     },
     {
       "name": "BlackDye",
@@ -3209,7 +3157,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/black_dye.json"
         ]
       },
-      "path": "~/Misc/Dye"
+      "path": "~/Misc"
     },
     {
       "name": "GreenDye",
@@ -3222,7 +3170,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/green_dye.json"
         ]
       },
-      "path": "~/Misc/Dye"
+      "path": "~/Misc"
     },
     {
       "name": "DispenserWithStone",
@@ -3235,33 +3183,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/dispenser_with_stone.json"
         ]
       },
-      "path": "~/Functional Blocks/Dispensers"
-    },
-    {
-      "name": "DispenserWithStone2",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dispenser_with_stone_2",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/dispenser_with_deepslate.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Dispensers"
-    },
-    {
-      "name": "DispenserWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dispenser_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/dispenser_with_blackstone.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Dispensers"
+      "path": "~/Functional Blocks"
     },
     {
       "name": "DropperWithStone",
@@ -3274,33 +3196,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/dropper_with_stone.json"
         ]
       },
-      "path": "~/Functional Blocks/Dropper"
-    },
-    {
-      "name": "DropperWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dropper_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/dropper_with_deepslate.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Dropper"
-    },
-    {
-      "name": "DropperWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "dropper_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/dropper_with_blackstone.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Dropper"
+      "path": "~/Functional Blocks"
     },
     {
       "name": "FurnaceWithStone",
@@ -3313,7 +3209,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/furnace_with_stone.json"
         ]
       },
-      "path": "~/Functional Blocks/Furnace"
+      "path": "~/Functional Blocks"
     },
     {
       "name": "BrewingStandWithStone",
@@ -3326,7 +3222,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/brewing_stand_with_stone.json"
         ]
       },
-      "path": "~/Functional Blocks/Brewing Stand"
+      "path": "~/Functional Blocks"
     },
     {
       "name": "LeverWithStone",
@@ -3339,33 +3235,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/lever_with_stone.json"
         ]
       },
-      "path": "~/Functional Blocks/Lever"
-    },
-    {
-      "name": "LeverWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "lever_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/lever_with_deepslate.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Lever"
-    },
-    {
-      "name": "LeverWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "lever_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/lever_with_blackstone.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Lever"
+      "path": "~/Functional Blocks"
     },
     {
       "name": "ObserverWithStone",
@@ -3378,33 +3248,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/observer_with_stone.json"
         ]
       },
-      "path": "~/Functional Blocks/Observer"
-    },
-    {
-      "name": "ObserverWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "observer_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/observer_with_deepslate.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Observer"
-    },
-    {
-      "name": "ObserverWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "observer_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/observer_with_blackstone.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Observer"
+      "path": "~/Functional Blocks"
     },
     {
       "name": "PistonWithStone",
@@ -3417,33 +3261,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/piston_with_stone.json"
         ]
       },
-      "path": "~/Functional Blocks/Piston"
-    },
-    {
-      "name": "PistonWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "piston_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/piston_with_deepslate.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Piston"
-    },
-    {
-      "name": "PistonWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "piston_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/piston_with_blackstone.json"
-        ]
-      },
-      "path": "~/Functional Blocks/Piston"
+      "path": "~/Functional Blocks"
     },
     {
       "name": "StoneAxeWithStone",
@@ -3456,33 +3274,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/stone_axe_with_stone.json"
         ]
       },
-      "path": "~/Weapons-Tools/Stone/Axe"
-    },
-    {
-      "name": "StoneAxeWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_axe_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/stone_axe_with_deepslate.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Axe"
-    },
-    {
-      "name": "StoneAxeWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_axe_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/stone_axe_with_blackstone.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Axe"
+      "path": "~/Weapons-Tools"
     },
     {
       "name": "StoneHoeWithStone",
@@ -3495,33 +3287,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/stone_hoe_with_stone.json"
         ]
       },
-      "path": "~/Weapons-Tools/Stone/Hoe"
-    },
-    {
-      "name": "StoneHoeWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_hoe_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/stone_hoe_with_deepslate.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Hoe"
-    },
-    {
-      "name": "StoneHoeWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_hoe_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/stone_hoe_with_blackstone.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Hoe"
+      "path": "~/Weapons-Tools"
     },
     {
       "name": "StonePickaxeWithStone",
@@ -3534,33 +3300,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/stone_pickaxe_with_stone.json"
         ]
       },
-      "path": "~/Weapons-Tools/Stone/Pickaxe"
-    },
-    {
-      "name": "StonePickaxeWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_pickaxe_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/stone_pickaxe_with_deepslate.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Pickaxe"
-    },
-    {
-      "name": "StonePickaxeWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_pickaxe_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/stone_pickaxe_with_blackstone.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Pickaxe"
+      "path": "~/Weapons-Tools"
     },
     {
       "name": "StoneShovelWithStone",
@@ -3573,33 +3313,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/stone_shovel_with_stone.json"
         ]
       },
-      "path": "~/Weapons-Tools/Stone/Shovel"
-    },
-    {
-      "name": "StoneShovelWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_shovel_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/stone_shovel_with_deepslate.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Shovel"
-    },
-    {
-      "name": "StoneShovelWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_shovel_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/stone_shovel_with_blackstone.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Shovel"
+      "path": "~/Weapons-Tools"
     },
     {
       "name": "StoneSwordWithStone",
@@ -3612,33 +3326,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/stone_sword_with_stone.json"
         ]
       },
-      "path": "~/Weapons-Tools/Stone/Sword"
-    },
-    {
-      "name": "StoneSwordWithDeepslate",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_sword_with_deepslate",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/stone_sword_with_deepslate.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Sword"
-    },
-    {
-      "name": "StoneSwordWithBlackstone",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "stone_sword_with_blackstone",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipe/stone_sword_with_blackstone.json"
-        ]
-      },
-      "path": "~/Weapons-Tools/Stone/Sword"
+      "path": "~/Weapons-Tools"
     },
     {
       "name": "RootedDirt",
@@ -3651,7 +3339,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/rooted_dirt.json"
         ]
       },
-      "path": "~/Misc/Dirt"
+      "path": "~/Misc"
     },
     {
       "name": "DripstoneFromBlocks",
@@ -3664,7 +3352,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/dripstone_from_blocks.json"
         ]
       },
-      "path": "~/Stone/Dripstone"
+      "path": "~/Stone"
     },
     {
       "name": "GlowstoneDustFromBlocks",
@@ -3677,7 +3365,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/glowstone_dust_from_blocks.json"
         ]
       },
-      "path": "~/Misc/Glowstone"
+      "path": "~/Misc"
     },
     {
       "name": "PaleOakStairs",
@@ -3794,7 +3482,7 @@
           "src/main/resources/data/minecraft/recipe/polished_tuff_stairs.json"
         ]
       },
-      "path": "~/Stone/Tuff/PolishedTuff"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedTuffFromSlabs",
@@ -3807,7 +3495,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_tuff_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Tuff/PolishedTuff"
+      "path": "~/Stone"
     },
     {
       "name": "PolishedTuffFromStairs",
@@ -3820,7 +3508,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/polished_tuff_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Tuff/PolishedTuff"
+      "path": "~/Stone"
     },
     {
       "name": "TuffBrickStairs",
@@ -3833,7 +3521,7 @@
           "src/main/resources/data/minecraft/recipe/tuff_brick_stairs.json"
         ]
       },
-      "path": "~/Stone/Tuff/TuffBricks"
+      "path": "~/Stone"
     },
     {
       "name": "TuffBricksFromSlabs",
@@ -3846,7 +3534,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/tuff_bricks_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Tuff/TuffBricks"
+      "path": "~/Stone"
     },
     {
       "name": "TuffBricksFromStairs",
@@ -3859,7 +3547,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/tuff_bricks_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Tuff/TuffBricks"
+      "path": "~/Stone"
     },
     {
       "name": "TuffStairs",
@@ -3872,7 +3560,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/tuff_stairs.json"
         ]
       },
-      "path": "~/Stone/Tuff/Tuff"
+      "path": "~/Stone"
     },
     {
       "name": "TuffFromStairs",
@@ -3885,7 +3573,7 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/tuff_from_stairs.json"
         ]
       },
-      "path": "~/Stone/Tuff/Tuff"
+      "path": "~/Stone"
     },
     {
       "name": "TuffFromSlabs",
@@ -3898,7 +3586,20 @@
           "src/main/resources/data/fatals_qol_crafting/recipe/tuff_from_slabs.json"
         ]
       },
-      "path": "~/Stone/Tuff/Tuff"
+      "path": "~/Stone"
+    },
+    {
+      "name": "ChestFromLogs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chest_from_logs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/fatals_qol_crafting/recipe/chest_from_logs.json"
+        ]
+      },
+      "path": "~/Wood/Chests"
     }
   ],
   "variable_elements": [
@@ -4015,10 +3716,33 @@
       "type": "logic",
       "scope": "map",
       "value": "false"
+    },
+    {
+      "name": "LogCheck",
+      "type": "itemstack",
+      "scope": "player_persistent",
+      "value": "ItemStack.EMPTY"
+    },
+    {
+      "name": "LogCheckSlot",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
     }
   ],
   "sound_elements": [],
-  "tag_elements": {},
+  "tag_elements": {
+    "ITEMS:mod:stones": [
+      "Blocks.STONE#0",
+      "Blocks.STONE#1",
+      "Blocks.STONE#3",
+      "Blocks.STONE#5",
+      "Blocks.DEEPSLATE",
+      "Blocks.COBBLED_DEEPSLATE",
+      "Blocks.TUFF",
+      "Blocks.BLACKSTONE"
+    ]
+  },
   "tab_element_order": {},
   "language_map": {
     "en_us": {}
@@ -4085,324 +3809,19 @@
       },
       {
         "name": "Stone",
-        "children": [
-          {
-            "name": "Deepslate",
-            "children": [
-              {
-                "name": "Cobbled Deepslate",
-                "children": []
-              },
-              {
-                "name": "Polished Deepslate",
-                "children": []
-              },
-              {
-                "name": "Deepslate Bricks",
-                "children": []
-              },
-              {
-                "name": "Deepslate Tiles",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Stone",
-            "children": []
-          },
-          {
-            "name": "Cobblestone",
-            "children": []
-          },
-          {
-            "name": "MossyCobblestone",
-            "children": []
-          },
-          {
-            "name": "Stone Bricks",
-            "children": []
-          },
-          {
-            "name": "Mossy Stone Bricks",
-            "children": []
-          },
-          {
-            "name": "Granite",
-            "children": []
-          },
-          {
-            "name": "Diorite",
-            "children": []
-          },
-          {
-            "name": "Andesite",
-            "children": []
-          },
-          {
-            "name": "Sandstone",
-            "children": [
-              {
-                "name": "Sandstone",
-                "children": [
-                  {
-                    "name": "Sanstone",
-                    "children": []
-                  },
-                  {
-                    "name": "Smooth Sandstone",
-                    "children": []
-                  },
-                  {
-                    "name": "Cut Sandstone",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "Red Sandstone",
-                "children": [
-                  {
-                    "name": "RedSandstone",
-                    "children": []
-                  },
-                  {
-                    "name": "Smooth Red Sandstone",
-                    "children": []
-                  },
-                  {
-                    "name": "Cut Red Sandstone",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Prismarine",
-            "children": [
-              {
-                "name": "Prismarine",
-                "children": []
-              },
-              {
-                "name": "Prismarine Bricks",
-                "children": []
-              },
-              {
-                "name": "Dark Prismarine",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Blackstone",
-            "children": [
-              {
-                "name": "Blackstone",
-                "children": []
-              },
-              {
-                "name": "Polished Blackstone",
-                "children": []
-              },
-              {
-                "name": "Polished Blackstone Bricks",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "End Stone Bricks",
-            "children": []
-          },
-          {
-            "name": "SmoothStone",
-            "children": []
-          },
-          {
-            "name": "Tuff",
-            "children": [
-              {
-                "name": "PolishedTuff",
-                "children": []
-              },
-              {
-                "name": "TuffBricks",
-                "children": []
-              },
-              {
-                "name": "Tuff",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Dripstone",
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "name": "Bricks",
-        "children": [
-          {
-            "name": "Bricks",
-            "children": []
-          },
-          {
-            "name": "Mud Bricks",
-            "children": []
-          },
-          {
-            "name": "Resin Bricks",
-            "children": []
-          },
-          {
-            "name": "Nether Bricks",
-            "children": [
-              {
-                "name": "Nether Bricks",
-                "children": []
-              },
-              {
-                "name": "Red Nether Bricks",
-                "children": []
-              }
-            ]
-          }
-        ]
+        "children": []
       },
       {
         "name": "Misc",
-        "children": [
-          {
-            "name": "Purpur",
-            "children": []
-          },
-          {
-            "name": "Quartz",
-            "children": [
-              {
-                "name": "Quartz",
-                "children": []
-              },
-              {
-                "name": "Smooth Quartz",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Warts",
-            "children": []
-          },
-          {
-            "name": "Cobwebs",
-            "children": []
-          },
-          {
-            "name": "Clay",
-            "children": []
-          },
-          {
-            "name": "DeadBush",
-            "children": []
-          },
-          {
-            "name": "Nylium",
-            "children": [
-              {
-                "name": "Crimson",
-                "children": []
-              },
-              {
-                "name": "Warped",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Wool",
-            "children": []
-          },
-          {
-            "name": "Dye",
-            "children": []
-          },
-          {
-            "name": "Dirt",
-            "children": []
-          },
-          {
-            "name": "Glowstone",
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "name": "Metals",
-        "children": [
-          {
-            "name": "Copper",
-            "children": [
-              {
-                "name": "Cut Copper",
-                "children": [
-                  {
-                    "name": "Cut Copper",
-                    "children": [
-                      {
-                        "name": "Waxed",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "Exposed Cut Copper",
-                    "children": [
-                      {
-                        "name": "Waxed",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "Weathered Cut Copper",
-                    "children": [
-                      {
-                        "name": "Waxed",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "OxidizedCut Copper",
-                    "children": [
-                      {
-                        "name": "Waxed",
-                        "children": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Iron",
-            "children": [
-              {
-                "name": "Chainmail",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Gold",
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "name": "Recipe Unlocks",
@@ -4410,73 +3829,18 @@
       },
       {
         "name": "Functional Blocks",
-        "children": [
-          {
-            "name": "Dispensers",
-            "children": []
-          },
-          {
-            "name": "Dropper",
-            "children": []
-          },
-          {
-            "name": "Furnace",
-            "children": []
-          },
-          {
-            "name": "Brewing Stand",
-            "children": []
-          },
-          {
-            "name": "Lever",
-            "children": []
-          },
-          {
-            "name": "Observer",
-            "children": []
-          },
-          {
-            "name": "Piston",
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "name": "Weapons-Tools",
-        "children": [
-          {
-            "name": "Stone",
-            "children": [
-              {
-                "name": "Axe",
-                "children": []
-              },
-              {
-                "name": "Hoe",
-                "children": []
-              },
-              {
-                "name": "Pickaxe",
-                "children": []
-              },
-              {
-                "name": "Shovel",
-                "children": []
-              },
-              {
-                "name": "Sword",
-                "children": []
-              }
-            ]
-          }
-        ]
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "fatals_qol_crafting",
     "modName": "Fatal\u0027s QoL Crafting",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Changes some recipes and adds many new ones.",
     "author": "FatalMistake02",
     "websiteURL": "https://fatalmistake02.com",

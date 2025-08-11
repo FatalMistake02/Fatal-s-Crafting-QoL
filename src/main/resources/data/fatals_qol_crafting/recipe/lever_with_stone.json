@@ -10,7 +10,7 @@
       "item": "minecraft:stick"
     },
     "b": {
-      "tag": "c:stones"
+      "tag": "fatals_qol_crafting:stones"
     }
   },
   "result": {

@@ -12,31 +12,31 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Blocks.PLANKS"
+        "value": "TAG:minecraft:planks"
       },
       {
-        "value": "Blocks.PLANKS"
+        "value": "TAG:minecraft:planks"
       },
       {
-        "value": "Blocks.PLANKS"
+        "value": "TAG:minecraft:planks"
       },
       {
-        "value": "Blocks.STONE"
+        "value": "TAG:mod:stones"
       },
       {
         "value": "Items.IRON_INGOT"
       },
       {
-        "value": "Blocks.STONE"
+        "value": "TAG:mod:stones"
       },
       {
-        "value": "Blocks.STONE"
+        "value": "TAG:mod:stones"
       },
       {
         "value": "Items.REDSTONE"
       },
       {
-        "value": "Blocks.STONE"
+        "value": "TAG:mod:stones"
       }
     ],
     "recipeReturnStack": {

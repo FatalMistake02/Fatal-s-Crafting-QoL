@@ -12,37 +12,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Blocks.WARPED_STEM"
+        "value": "TAG:mod:logs"
       },
       {
-        "value": "Blocks.WARPED_STEM"
+        "value": "TAG:mod:logs"
       },
       {
-        "value": "Blocks.WARPED_STEM"
+        "value": "TAG:mod:logs"
       },
       {
-        "value": "Blocks.WARPED_STEM"
+        "value": "TAG:mod:logs"
       },
       {
         "value": ""
       },
       {
-        "value": "Blocks.WARPED_STEM"
+        "value": "TAG:mod:logs"
       },
       {
-        "value": "Blocks.WARPED_STEM"
+        "value": "TAG:mod:logs"
       },
       {
-        "value": "Blocks.WARPED_STEM"
+        "value": "TAG:mod:logs"
       },
       {
-        "value": "Blocks.WARPED_STEM"
+        "value": "TAG:mod:logs"
       }
     ],
     "recipeReturnStack": {
       "value": "Blocks.CHEST"
     },
-    "name": "chest_3",
+    "name": "chest_from_logs",
     "namespace": "mod"
   }
 }
