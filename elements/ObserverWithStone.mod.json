@@ -12,13 +12,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Blocks.STONE"
+        "value": "TAG:mod:stones"
       },
       {
-        "value": "Blocks.STONE"
+        "value": "TAG:mod:stones"
       },
       {
-        "value": "Blocks.STONE"
+        "value": "TAG:mod:stones"
       },
       {
         "value": "Items.REDSTONE"
@@ -30,13 +30,13 @@
         "value": "Items.QUARTZ"
       },
       {
-        "value": "Blocks.STONE"
+        "value": "TAG:mod:stones"
       },
       {
-        "value": "Blocks.STONE"
+        "value": "TAG:mod:stones"
       },
       {
-        "value": "Blocks.STONE"
+        "value": "TAG:mod:stones"
       }
     ],
     "recipeReturnStack": {

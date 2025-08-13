@@ -12,37 +12,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Blocks.LOG"
+        "value": "TAG:minecraft:logs"
       },
       {
-        "value": "Blocks.LOG"
+        "value": "TAG:minecraft:logs"
       },
       {
-        "value": "Blocks.LOG"
+        "value": "TAG:minecraft:logs"
       },
       {
-        "value": "Blocks.LOG"
+        "value": "TAG:minecraft:logs"
       },
       {
         "value": ""
       },
       {
-        "value": "Blocks.LOG"
+        "value": "TAG:minecraft:logs"
       },
       {
-        "value": "Blocks.LOG"
+        "value": "TAG:minecraft:logs"
       },
       {
-        "value": "Blocks.LOG"
+        "value": "TAG:minecraft:logs"
       },
       {
-        "value": "Blocks.LOG"
+        "value": "TAG:minecraft:logs"
       }
     ],
     "recipeReturnStack": {
       "value": "Blocks.CHEST"
     },
-    "name": "chest_1",
+    "name": "chest_from_logs",
     "namespace": "mod"
   }
 }
