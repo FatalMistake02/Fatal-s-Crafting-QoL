@@ -3507,7 +3507,9 @@
       "Blocks.DEEPSLATE",
       "Blocks.COBBLED_DEEPSLATE",
       "Blocks.TUFF",
-      "Blocks.BLACKSTONE"
+      "Blocks.BLACKSTONE",
+      "Blocks.COBBLESTONE",
+      "Blocks.MOSSY_COBBLESTONE"
     ]
   },
   "tab_element_order": {},
@@ -3925,7 +3927,7 @@
   "workspaceSettings": {
     "modid": "fatals_qol_crafting",
     "modName": "Fatal\u0027s QoL Crafting",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "Changes some recipes and adds many new ones.",
     "author": "FatalMistake02",
     "websiteURL": "https://fatalmistake02.com",
