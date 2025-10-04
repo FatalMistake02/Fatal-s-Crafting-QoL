@@ -3368,131 +3368,14 @@
       "path": "~/Misc"
     },
     {
-      "name": "PolishedTuffStairs",
+      "name": "ChestsFromLogs",
       "type": "recipe",
       "compiles": true,
       "locked_code": false,
-      "registry_name": "polished_tuff_stairs",
+      "registry_name": "chests_from_logs",
       "metadata": {
         "files": [
-          "src/main/resources/data/minecraft/recipes/polished_tuff_stairs.json"
-        ]
-      },
-      "path": "~/Stone"
-    },
-    {
-      "name": "PolishedTuffFromSlabs",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "polished_tuff_from_slabs",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/polished_tuff_from_slabs.json"
-        ]
-      },
-      "path": "~/Stone"
-    },
-    {
-      "name": "PolishedTuffFromStairs",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "polished_tuff_from_stairs",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/polished_tuff_from_stairs.json"
-        ]
-      },
-      "path": "~/Stone"
-    },
-    {
-      "name": "TuffBrickStairs",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tuff_brick_stairs",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/minecraft/recipes/tuff_brick_stairs.json"
-        ]
-      },
-      "path": "~/Stone"
-    },
-    {
-      "name": "TuffBricksFromSlabs",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tuff_bricks_from_slabs",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/tuff_bricks_from_slabs.json"
-        ]
-      },
-      "path": "~/Stone"
-    },
-    {
-      "name": "TuffBricksFromStairs",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tuff_bricks_from_stairs",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/tuff_bricks_from_stairs.json"
-        ]
-      },
-      "path": "~/Stone"
-    },
-    {
-      "name": "TuffStairs",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tuff_stairs",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/tuff_stairs.json"
-        ]
-      },
-      "path": "~/Stone"
-    },
-    {
-      "name": "TuffFromStairs",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tuff_from_stairs",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/tuff_from_stairs.json"
-        ]
-      },
-      "path": "~/Stone"
-    },
-    {
-      "name": "TuffFromSlabs",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tuff_from_slabs",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/tuff_from_slabs.json"
-        ]
-      },
-      "path": "~/Stone"
-    },
-    {
-      "name": "ChestFromLogs",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "chest_from_logs",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/fatals_qol_crafting/recipes/chest_from_logs.json"
+          "src/main/resources/data/fatals_qol_crafting/recipes/chests_from_logs.json"
         ]
       },
       "path": "~/Wood/Chests"
@@ -3745,7 +3628,7 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "neoforge-1.20.4",
+    "currentGenerator": "neoforge-1.20.4-6",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.fatalscraftingqol"
   },

@@ -4,7 +4,7 @@ license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="fatals_qol_crafting"
-version="1.0.0"
+version="1.1.1"
 displayName="Fatal's QoL Crafting"
 displayURL="https://fatalmistake02.com"
 logoFile="logo.png"
@@ -18,14 +18,14 @@ description="Changes some recipes and adds many new ones."
 [[dependencies.fatals_qol_crafting]]
     modId="neoforge"
     type="required"
-    versionRange="[20.4.248,)"
+    versionRange="[20.0,)"
     ordering="AFTER"
     side="BOTH"
 
 [[dependencies.fatals_qol_crafting]]
     modId="minecraft"
     type="required"
-    versionRange="[1.20.4]"
+    versionRange="[1.20.4,1.20.7)"
     ordering="AFTER"
     side="BOTH"
 
