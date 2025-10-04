@@ -6,9 +6,7 @@
     "a"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:weathered_cut_copper_slab"
-    }
+    "a": "minecraft:weathered_cut_copper_slab"
   },
   "result": {
     "id": "minecraft:weathered_cut_copper",

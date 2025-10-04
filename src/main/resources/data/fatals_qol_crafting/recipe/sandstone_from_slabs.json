@@ -6,9 +6,7 @@
     "a"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:sandstone_slab"
-    }
+    "a": "minecraft:sandstone_slab"
   },
   "result": {
     "id": "minecraft:sandstone",

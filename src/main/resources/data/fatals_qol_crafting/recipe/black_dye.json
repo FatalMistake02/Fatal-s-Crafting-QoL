@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:air"
-    }
+    "minecraft:air"
   ],
   "result": {
     "id": "minecraft:black_dye",

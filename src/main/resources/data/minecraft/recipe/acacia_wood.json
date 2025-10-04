@@ -6,9 +6,7 @@
     "aa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:acacia_log"
-    }
+    "a": "minecraft:acacia_log"
   },
   "result": {
     "id": "minecraft:acacia_wood",

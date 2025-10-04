@@ -3602,134 +3602,7 @@
       "path": "~/Wood/Chests"
     }
   ],
-  "variable_elements": [
-    {
-      "name": "ChainmailArmor",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "Stair",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "Button",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "Fences",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "PressurePlate",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "Trapdoor",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "Wood_Hyphae",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "SlabsToBlocks",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "StairsToBlocks",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "SmeltRawOreBlocks",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "Dispensers",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "NetherWartBlockUncraft",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "Cobwebs",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "QuartzBlockUncraft",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "ClayUncraft",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "DeadBush",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "ChestsFromLogs",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "CraftableNylium",
-      "type": "logic",
-      "scope": "map",
-      "value": "true"
-    },
-    {
-      "name": "WoolToString",
-      "type": "logic",
-      "scope": "map",
-      "value": "false"
-    },
-    {
-      "name": "LogCheck",
-      "type": "itemstack",
-      "scope": "player_persistent",
-      "value": "ItemStack.EMPTY"
-    },
-    {
-      "name": "LogCheckSlot",
-      "type": "number",
-      "scope": "player_persistent",
-      "value": "0"
-    }
-  ],
+  "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {
     "ITEMS:mod:stones": [
@@ -3853,7 +3726,7 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "neoforge-1.21.1",
+    "currentGenerator": "neoforge-1.21.x",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.fatalscraftingqol"
   },

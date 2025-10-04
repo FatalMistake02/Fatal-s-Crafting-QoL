@@ -3,14 +3,15 @@
   "category": "misc",
   "pattern": [
     "aaa",
-    "a a",
+    "aba",
     "aaa"
   ],
   "key": {
-    "a": "#fatals_qol_crafting:stones"
+    "a": "minecraft:copper_block",
+    "b": "minecraft:chest"
   },
   "result": {
-    "id": "minecraft:furnace",
-    "count": 1
+    "id": "minecraft:copper_chest",
+    "count": 9
   }
 }

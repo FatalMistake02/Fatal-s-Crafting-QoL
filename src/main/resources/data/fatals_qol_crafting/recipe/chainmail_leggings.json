@@ -7,9 +7,7 @@
     "a a"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:chain"
-    }
+    "a": "minecraft:chain"
   },
   "result": {
     "id": "minecraft:chainmail_leggings",

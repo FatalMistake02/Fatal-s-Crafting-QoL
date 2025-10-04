@@ -6,9 +6,7 @@
     "a"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:waxed_oxidized_cut_copper_slab"
-    }
+    "a": "minecraft:waxed_oxidized_cut_copper_slab"
   },
   "result": {
     "id": "minecraft:waxed_oxidized_cut_copper",

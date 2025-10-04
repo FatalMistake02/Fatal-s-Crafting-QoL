@@ -7,9 +7,7 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "tag": "fatals_qol_crafting:logs"
-    }
+    "a": "#fatals_qol_crafting:logs"
   },
   "result": {
     "id": "minecraft:chest",

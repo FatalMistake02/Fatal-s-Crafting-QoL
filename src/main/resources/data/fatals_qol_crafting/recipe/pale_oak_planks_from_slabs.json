@@ -6,12 +6,10 @@
     "a"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:air"
-    }
+    "a": "minecraft:pale_oak_slab"
   },
   "result": {
-    "id": "minecraft:air",
+    "id": "minecraft:pale_oak_planks",
     "count": 1
   }
 }

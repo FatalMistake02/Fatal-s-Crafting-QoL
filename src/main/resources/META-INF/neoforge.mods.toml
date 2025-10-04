@@ -18,14 +18,14 @@ description="Changes some recipes and adds many new ones."
 [[dependencies.fatals_qol_crafting]]
     modId="neoforge"
     type="required"
-    versionRange="[21.1.92,)"
+    versionRange="[21.0,)"
     ordering="AFTER"
     side="BOTH"
 
 [[dependencies.fatals_qol_crafting]]
     modId="minecraft"
     type="required"
-    versionRange="[1.21.1]"
+    versionRange="[1.21,1.22)"
     ordering="AFTER"
     side="BOTH"
 

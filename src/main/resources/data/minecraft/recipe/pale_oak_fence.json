@@ -6,15 +6,11 @@
     "aba"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:air"
-    },
-    "b": {
-      "item": "minecraft:stick"
-    }
+    "a": "minecraft:pale_oak_planks",
+    "b": "minecraft:stick"
   },
   "result": {
-    "id": "minecraft:air",
+    "id": "minecraft:pale_oak_fence",
     "count": 6
   }
 }

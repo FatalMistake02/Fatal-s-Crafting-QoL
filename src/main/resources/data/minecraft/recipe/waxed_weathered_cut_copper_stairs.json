@@ -7,9 +7,7 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:waxed_weathered_cut_copper"
-    }
+    "a": "minecraft:waxed_weathered_cut_copper"
   },
   "result": {
     "id": "minecraft:waxed_weathered_cut_copper_stairs",

@@ -6,12 +6,10 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:air"
-    }
+    "a": "minecraft:pale_oak_planks"
   },
   "result": {
-    "id": "minecraft:air",
+    "id": "minecraft:pale_oak_trapdoor",
     "count": 12
   }
 }

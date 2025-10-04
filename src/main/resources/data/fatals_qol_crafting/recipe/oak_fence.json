@@ -6,12 +6,8 @@
     "aba"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:oak_planks"
-    },
-    "b": {
-      "item": "minecraft:stick"
-    }
+    "a": "minecraft:oak_planks",
+    "b": "minecraft:stick"
   },
   "result": {
     "id": "minecraft:oak_fence",

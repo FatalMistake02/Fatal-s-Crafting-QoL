@@ -6,9 +6,7 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:dark_oak_planks"
-    }
+    "a": "minecraft:dark_oak_planks"
   },
   "result": {
     "id": "minecraft:dark_oak_trapdoor",
