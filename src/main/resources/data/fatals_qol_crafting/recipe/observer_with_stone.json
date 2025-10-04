@@ -7,15 +7,9 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "tag": "fatals_qol_crafting:stones"
-    },
-    "b": {
-      "item": "minecraft:redstone"
-    },
-    "c": {
-      "item": "minecraft:quartz"
-    }
+    "a": "#fatals_qol_crafting:stones",
+    "b": "minecraft:redstone",
+    "c": "minecraft:quartz"
   },
   "result": {
     "id": "minecraft:observer",

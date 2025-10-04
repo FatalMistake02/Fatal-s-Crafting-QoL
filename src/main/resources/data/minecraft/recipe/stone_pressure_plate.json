@@ -5,9 +5,7 @@
     "aa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:stone"
-    }
+    "a": "minecraft:stone"
   },
   "result": {
     "id": "minecraft:stone_pressure_plate",

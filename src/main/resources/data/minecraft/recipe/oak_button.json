@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:oak_planks"
-    }
+    "minecraft:oak_planks"
   ],
   "result": {
     "id": "minecraft:oak_button",

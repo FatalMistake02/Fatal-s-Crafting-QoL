@@ -6,9 +6,7 @@
     "aa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:spruce_log"
-    }
+    "a": "minecraft:spruce_log"
   },
   "result": {
     "id": "minecraft:spruce_wood",

@@ -6,12 +6,10 @@
     "aa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:air"
-    }
+    "a": "minecraft:pale_oak_log"
   },
   "result": {
-    "id": "minecraft:air",
+    "id": "minecraft:pale_oak_wood",
     "count": 4
   }
 }

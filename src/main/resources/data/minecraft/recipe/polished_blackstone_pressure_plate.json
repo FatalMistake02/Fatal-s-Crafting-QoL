@@ -5,9 +5,7 @@
     "aa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:polished_blackstone"
-    }
+    "a": "minecraft:polished_blackstone"
   },
   "result": {
     "id": "minecraft:polished_blackstone_pressure_plate",

@@ -6,9 +6,7 @@
     "aa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:purpur_stairs"
-    }
+    "a": "minecraft:purpur_stairs"
   },
   "result": {
     "id": "minecraft:purpur_block",

@@ -7,9 +7,7 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:mangrove_planks"
-    }
+    "a": "minecraft:mangrove_planks"
   },
   "result": {
     "id": "minecraft:mangrove_stairs",

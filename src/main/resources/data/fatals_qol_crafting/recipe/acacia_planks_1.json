@@ -6,9 +6,7 @@
     "a"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:acacia_slab"
-    }
+    "a": "minecraft:acacia_slab"
   },
   "result": {
     "id": "minecraft:acacia_planks",

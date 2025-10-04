@@ -7,9 +7,7 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:smooth_sandstone"
-    }
+    "a": "minecraft:smooth_sandstone"
   },
   "result": {
     "id": "minecraft:smooth_sandstone_stairs",

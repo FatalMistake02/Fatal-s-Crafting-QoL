@@ -7,15 +7,9 @@
     " ab"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:stick"
-    },
-    "b": {
-      "item": "minecraft:string"
-    },
-    "c": {
-      "item": "minecraft:dropper"
-    }
+    "a": "minecraft:stick",
+    "b": "minecraft:string",
+    "c": "minecraft:dropper"
   },
   "result": {
     "id": "minecraft:dispenser",

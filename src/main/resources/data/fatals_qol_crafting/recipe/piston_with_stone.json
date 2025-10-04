@@ -7,18 +7,10 @@
     "bdb"
   ],
   "key": {
-    "a": {
-      "tag": "minecraft:planks"
-    },
-    "b": {
-      "tag": "fatals_qol_crafting:stones"
-    },
-    "c": {
-      "item": "minecraft:iron_ingot"
-    },
-    "d": {
-      "item": "minecraft:redstone"
-    }
+    "a": "#minecraft:planks",
+    "b": "#fatals_qol_crafting:stones",
+    "c": "minecraft:iron_ingot",
+    "d": "minecraft:redstone"
   },
   "result": {
     "id": "minecraft:piston",

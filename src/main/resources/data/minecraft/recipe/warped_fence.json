@@ -6,12 +6,8 @@
     "aba"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:warped_planks"
-    },
-    "b": {
-      "item": "minecraft:stick"
-    }
+    "a": "minecraft:warped_planks",
+    "b": "minecraft:stick"
   },
   "result": {
     "id": "minecraft:warped_fence",

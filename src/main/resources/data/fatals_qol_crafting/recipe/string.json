@@ -5,9 +5,7 @@
     "a"
   ],
   "key": {
-    "a": {
-      "tag": "minecraft:wool"
-    }
+    "a": "#minecraft:wool"
   },
   "result": {
     "id": "minecraft:string",

@@ -7,9 +7,7 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:bricks"
-    }
+    "a": "minecraft:bricks"
   },
   "result": {
     "id": "minecraft:brick_stairs",

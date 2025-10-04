@@ -7,9 +7,7 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:bamboo_planks"
-    }
+    "a": "minecraft:bamboo_planks"
   },
   "result": {
     "id": "minecraft:bamboo_stairs",

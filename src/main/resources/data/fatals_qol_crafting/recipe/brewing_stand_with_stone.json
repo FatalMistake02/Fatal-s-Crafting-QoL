@@ -6,12 +6,8 @@
     "bbb"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:blaze_rod"
-    },
-    "b": {
-      "tag": "fatals_qol_crafting:stones"
-    }
+    "a": "minecraft:blaze_rod",
+    "b": "#fatals_qol_crafting:stones"
   },
   "result": {
     "id": "minecraft:brewing_stand",

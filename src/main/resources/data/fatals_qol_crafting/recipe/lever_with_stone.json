@@ -6,12 +6,8 @@
     "b"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:stick"
-    },
-    "b": {
-      "tag": "fatals_qol_crafting:stones"
-    }
+    "a": "minecraft:stick",
+    "b": "#fatals_qol_crafting:stones"
   },
   "result": {
     "id": "minecraft:lever",

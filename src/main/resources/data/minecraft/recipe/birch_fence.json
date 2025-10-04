@@ -6,12 +6,8 @@
     "aba"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:birch_planks"
-    },
-    "b": {
-      "item": "minecraft:stick"
-    }
+    "a": "minecraft:birch_planks",
+    "b": "minecraft:stick"
   },
   "result": {
     "id": "minecraft:birch_fence",

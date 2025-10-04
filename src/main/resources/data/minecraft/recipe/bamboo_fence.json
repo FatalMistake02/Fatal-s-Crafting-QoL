@@ -6,12 +6,8 @@
     "aba"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:bamboo_planks"
-    },
-    "b": {
-      "item": "minecraft:stick"
-    }
+    "a": "minecraft:bamboo_planks",
+    "b": "minecraft:stick"
   },
   "result": {
     "id": "minecraft:bamboo_fence",

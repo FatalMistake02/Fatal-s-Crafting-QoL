@@ -5,9 +5,7 @@
     "aa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:birch_planks"
-    }
+    "a": "minecraft:birch_planks"
   },
   "result": {
     "id": "minecraft:birch_pressure_plate",

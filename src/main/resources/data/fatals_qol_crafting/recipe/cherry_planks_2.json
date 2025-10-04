@@ -6,9 +6,7 @@
     "aa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:cherry_stairs"
-    }
+    "a": "minecraft:cherry_stairs"
   },
   "result": {
     "id": "minecraft:cherry_planks",

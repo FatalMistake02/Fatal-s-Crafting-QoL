@@ -6,9 +6,7 @@
     "a"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:spruce_slab"
-    }
+    "a": "minecraft:spruce_slab"
   },
   "result": {
     "id": "minecraft:spruce_planks",

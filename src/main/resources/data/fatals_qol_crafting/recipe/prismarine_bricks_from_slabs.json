@@ -6,9 +6,7 @@
     "a"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:prismarine_brick_slab"
-    }
+    "a": "minecraft:prismarine_brick_slab"
   },
   "result": {
     "id": "minecraft:prismarine_bricks",

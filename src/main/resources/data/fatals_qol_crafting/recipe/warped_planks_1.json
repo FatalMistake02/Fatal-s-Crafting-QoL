@@ -6,9 +6,7 @@
     "a"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:warped_slab"
-    }
+    "a": "minecraft:warped_slab"
   },
   "result": {
     "id": "minecraft:warped_planks",

@@ -6,12 +6,8 @@
     "b"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:crimson_roots"
-    },
-    "b": {
-      "item": "minecraft:netherrack"
-    }
+    "a": "minecraft:crimson_roots",
+    "b": "minecraft:netherrack"
   },
   "result": {
     "id": "minecraft:crimson_nylium",
