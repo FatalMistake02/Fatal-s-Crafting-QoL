@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:acacia_planks"
+  },
+  "result": {
+    "id": "minecraft:acacia_stairs",
+    "count": 8
+  }
+}

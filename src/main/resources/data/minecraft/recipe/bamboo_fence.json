@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:bamboo_planks",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:bamboo_fence",
+    "count": 6
+  }
+}

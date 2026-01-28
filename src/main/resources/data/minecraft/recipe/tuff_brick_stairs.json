@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:tuff_bricks"
+  },
+  "result": {
+    "id": "minecraft:tuff_brick_stairs",
+    "count": 8
+  }
+}

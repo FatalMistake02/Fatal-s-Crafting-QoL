@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:red_nether_bricks"
+  },
+  "result": {
+    "id": "minecraft:red_nether_brick_stairs",
+    "count": 8
+  }
+}

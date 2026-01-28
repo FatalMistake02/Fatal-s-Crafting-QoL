@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "minecraft:stick",
+    "b": "#fatals_qol_crafting:stones"
+  },
+  "result": {
+    "id": "minecraft:lever",
+    "count": 1
+  }
+}
